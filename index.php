@@ -53,11 +53,11 @@
                         <div class="card-flyer">
                             <div class="text-box">
                                 <div class="image-box">
-                                    <img src="assets/main.jpg" alt="" />
+                                    <img src="assets/infocard.jpg" alt="" />
                                 </div>
                                 <div class="text-container">
-                                    <h6>Title 01</h6>
-					<p>First</p>
+                                    <h6>Cardio</h6>
+					<p>Cardio</p>
 				</div>
                             </div>
                         </div>
@@ -68,11 +68,11 @@
                         <div class="card-flyer">
                             <div class="text-box">
                                 <div class="image-box">
-                                    <img src="assets/main.jpg" alt="" />
+                                    <img src="assets/infocard.jpg" alt="" />
                                 </div>
                                 <div class="text-container">                                    
-                                    <h6>Title 02</h6>
-                                    <p>Second</p>
+                                    <h6>Yoga</h6>
+                                    <p>Yoga</p>
 				</div>
                             </div>
                         </div>
@@ -83,12 +83,12 @@
                         <div class="card-flyer">
                             <div class="text-box">
                                 <div class="image-box">
-                                    <img src="assets/main.jpg" alt="" />
+                                    <img src="assets/infocard.jpg" alt="" />
                                 </div>
 
                                 <div class="text-container">
-                                    <h6>Title 03</h6>
-                                  <p>Third</p>
+                                    <h6>Zumba</h6>
+                                  <p>Zumba</p>
 				</div>
                             </div>
                         </div>
@@ -99,11 +99,11 @@
                         <div class="card-flyer">
                             <div class="text-box">
                                 <div class="image-box">
-                                    <img src="assets/main.jpg" alt="" />
+                                    <img src="assets/infocard.jpg" alt="" />
                                 </div>
                                 <div class="text-container">
-                                    <h6>Title 04</h6>
-					<p>Fourth</p>
+                                    <h6>weight Lifting</h6>
+					<p>weight Lifting</p>
                                 </div>
                             </div>
                         </div>
