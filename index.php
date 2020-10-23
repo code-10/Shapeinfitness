@@ -142,7 +142,7 @@
 <script>
 	var i;
 
-for(i=0;i<64;i++){
+for(i=0;i<8;i++){
 // Get the modal
 var modal = document.getElementById("myModal"+i);
 
