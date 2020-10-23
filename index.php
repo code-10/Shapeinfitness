@@ -3,8 +3,8 @@
 ?>
 
 
-<nav class="navbar sticky-top navbar-expand-lg" style="height:6rem;background-color:white;">
-  <a class="navbar-brand" href="#">Shapeinfitness</a>
+<nav class="navbar sticky-top navbar-expand-lg" style="height:6rem;background-color:#f5f5f5;">
+  <a class="navbar-brand" href="#" style="color:black;">Shapeinfitness</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
