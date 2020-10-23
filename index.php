@@ -1,4 +1,7 @@
-<?php include_once 'header.php'; ?>
+<?php 
+	include_once 'header.php';
+?>
+
 
 
 <nav class="navbar sticky-top navbar-expand-lg navbar-dark" style="background-color:#000000;">
@@ -31,6 +34,84 @@
 
 <div>
 	<img src="assets/main.jpg" class="img-fluid main" alt="Shapeinfitness">
+</div>
+
+
+
+<!--card css-->
+	<link rel="stylesheet" href="static/card.css">
+<!--card css end-->
+
+
+       <!-- Topic Cards -->
+<div class="m-4">
+    <div id="cards_landscape_wrap-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                    <a href="">
+                        <div class="card-flyer">
+                            <div class="text-box">
+                                <div class="image-box">
+                                    <img src="assets/main.jpg" alt="" />
+                                </div>
+                                <div class="text-container">
+                                    <h6>Title 01</h6>
+					<p>First</p>
+				</div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                    <a href="">
+                        <div class="card-flyer">
+                            <div class="text-box">
+                                <div class="image-box">
+                                    <img src="assets/main.jpg" alt="" />
+                                </div>
+                                <div class="text-container">                                    
+                                    <h6>Title 02</h6>
+                                    <p>Second</p>
+				</div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                    <a href="">
+                        <div class="card-flyer">
+                            <div class="text-box">
+                                <div class="image-box">
+                                    <img src="assets/main.jpg" alt="" />
+                                </div>
+
+                                <div class="text-container">
+                                    <h6>Title 03</h6>
+                                  <p>Third</p>
+				</div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                    <a href="">
+                        <div class="card-flyer">
+                            <div class="text-box">
+                                <div class="image-box">
+                                    <img src="assets/main.jpg" alt="" />
+                                </div>
+                                <div class="text-container">
+                                    <h6>Title 04</h6>
+					<p>Fourth</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 
