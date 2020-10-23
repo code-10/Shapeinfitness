@@ -1,6 +1,4 @@
-<?php
-  include_once 'header.php';
-?>
+<?php include_once 'header.php'; ?>
 
 
 <nav class="navbar sticky-top navbar-expand-lg navbar-dark" style="background-color:#000000;">
@@ -35,6 +33,10 @@
 	<img src="assets/main.jpg" class="img-fluid main" alt="Shapeinfitness">
 </div>
 
+
+
+
+<?php include_once 'footer.php'; ?>
 
 
 <style>
