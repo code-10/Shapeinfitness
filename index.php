@@ -47,7 +47,7 @@
 <!--services-->
 <div id="card" class="m-4">
    <div class="row">
-      <div class="col-md-3 mars">
+      <div class="col-md-3 mt-4 mb-4 mars">
           <!--<a href="">-->
             <figure>
                <figcaption>
@@ -57,7 +57,7 @@
             </figure>
          <!--</a>-->
       </div>
-      <div class="col-md-3 mars">
+      <div class="col-md-3 mt-4 mb-4  mars">
           <!--<a href="">-->
             <figure>
                <figcaption>
@@ -67,7 +67,7 @@
             </figure>
          <!--</a>-->
       </div>
-      <div class="col-md-3 mars">
+      <div class="col-md-3 mt-4 mb-4 mars">
           <!--<a href="">-->
             <figure>
                <figcaption>
@@ -77,7 +77,7 @@
             </figure>
          <!--</a>-->
       </div>
-      <div class="col-md-3 mars">
+      <div class="col-md-3 mt-4 mb-4 mars">
          <!--<a href="">-->
             <figure>
                <figcaption>
