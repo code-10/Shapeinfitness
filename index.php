@@ -115,12 +115,9 @@
 <!--contact-->
 
 <div class="container">
-	<div class="row">
+	<div class="row mb-5 mt-5">
 		<div class="col">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15548.576152625568!2d77.5934389!3d13.0264981!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xafffc1080f8f8457!2sSHAPE%20IN%20-%20Women&#39;s%20Fitness%20Gym%20and%20Group%20classes%20RT%20NAGAR!5e0!3m2!1sen!2sin!4v1603537909194!5m2!1sen!2sin" width="100%" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-		</div>
-		<div class="col">
-			<form class="jumbotron m-4" method="POST" action="#">
+			<form method="POST" action="#" style="background-color: #a4508b;background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);">
      				<div class="form-group">
         				<label for="inputname">Name</label>
         				<input type="text" class="form-control" id="inputname" placeholder="name" name="name" required>
@@ -139,6 +136,9 @@
    	 			</div>
     				<button type="submit" name="send" class="btn btn-dark">Send</button>
 			</form>
+		</div>
+		<div class="col">
+			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15548.576152625568!2d77.5934389!3d13.0264981!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xafffc1080f8f8457!2sSHAPE%20IN%20-%20Women&#39;s%20Fitness%20Gym%20and%20Group%20classes%20RT%20NAGAR!5e0!3m2!1sen!2sin!4v1603537909194!5m2!1sen!2sin" width="100%" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 		</div>
 	</div>
 </div>
