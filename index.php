@@ -34,6 +34,7 @@
 
 <div>
 	<img src="assets/main.jpg" class="img-fluid main" alt="Shapeinfitness">
+	<h1 class="centered">Shape in Fitness</h1>
 </div>
 
 
