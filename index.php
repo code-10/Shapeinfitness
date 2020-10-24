@@ -22,9 +22,6 @@
         <a class="nav-link" href="#">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#location">Location</a>
-      </li>
-      <li class="nav-item">
         <a class="nav-link" href="pages/services.php">Services</a>
       </li>
       <li class="nav-item">
@@ -32,6 +29,9 @@
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#contactus">Contact Us</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#location">Location</a>
       </li>
     </ul>
   </div>
