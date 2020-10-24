@@ -37,11 +37,6 @@
 
 
 
-<!--<div>
-	<img src="assets/main.jpg" class="img-fluid main" alt="Shapeinfitness">
-</div>-->
-
-
 <!--Main-->
 <div class="hero-image">
   <div class="hero-text">
@@ -54,6 +49,16 @@
 
 
 
+<!--motivation-->
+
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap" rel="stylesheet">
+
+<div class="p-2" style="background-color:black;">
+	<p style="font-family: 'Roboto', sans-serif;">STAY FIT - STAY HEALTHY</p>
+</div>
+
+
+<!--motivation end-->
 
 
 
