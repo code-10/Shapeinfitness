@@ -47,7 +47,7 @@
 <!--services-->
 <div class="m-4 container-fluid mt-5 mb-5">
    <div class="row">
-      <div class="col">
+      <div class="col-3">
          <a href="#">
             <figure>
                <figcaption>
@@ -57,7 +57,7 @@
             </figure>
          </a>
       </div>
-      <div class="col">
+      <div class="col-3">
          <a href="#">
             <figure>
                <figcaption>
@@ -67,7 +67,7 @@
             </figure>
          </a>
       </div>
-      <div class="col">
+      <div class="col-3">
          <a href="#">
             <figure>
                <figcaption>
@@ -77,7 +77,7 @@
             </figure>
          </a>
       </div>
-      <div class="col">
+      <div class="col-3">
          <a href="#">
             <figure>
                <figcaption>
