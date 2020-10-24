@@ -44,7 +44,7 @@
 
 
 
-
+<div class="container"> 
 <a href="#">
     <figure>
         <div class="date"><span class="card-date-day">20</span><span class="card-date-month">APR</span></div>
@@ -54,8 +54,7 @@
         </figcaption>
     </figure>
 </a>
-	
-	
+</div>
 	
 
 
