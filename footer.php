@@ -31,7 +31,7 @@
         <a href="#" target="_blamk"><span style="color:white;" class="fa fa-instagram m-4"></span></a>
         <a href="#" target="_blank"><span style="color:white;" class="fa fa-twitter m-4"></span></a>
         <a href="#" target="_blank"><span style="color:white;" class="fa fa-linkedin m-4"></span></a>
-        
+        <a href="#" target="_blank"><span style="color:white;" class="fa fa-envelope m-4"></span></a>
 
       </div>
       <!-- Grid column -->
