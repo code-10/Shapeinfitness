@@ -22,7 +22,7 @@
         <a class="nav-link" href="#">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="pages/services.php">Services</a>
+        <a class="nav-link" href="#services">Services</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#gallery">Gallery</a>
@@ -70,7 +70,7 @@
 
 <!--facilities-->
 
-<p style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-5 mb-2">OUR FACILITIES</p>
+<p id="services" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-5 mb-2">OUR FACILITIES</p>
 
 <div class="m-4">
 		<?$c=1; for($j=1;$j<=3;$j++){ ?>
@@ -103,7 +103,7 @@
 <!--Gallery-->
 
 
-<p style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-5 mb-2">GALLERY</p>
+<p id="gallery" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-5 mb-2">GALLERY</p>
 
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
