@@ -55,7 +55,7 @@
 
 <div class="p-2" style="background-color:black;">
 	<p style="font-family: 'Roboto', sans-serif;color:white;font-size:48px;" class="text-center p-3">STAY FIT</p>
-	<hr style="background-color:white">
+	<hr style="background-color:white;width:48px;">
 	<p style="font-family: 'Roboto', sans-serif;color:white;font-size:48px;" class="text-center p-3">STAY HEALTHY</p>
 </div>
 
