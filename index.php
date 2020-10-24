@@ -57,10 +57,10 @@
 
 
 
-<div class="p-1" style="background-color:black;">
-	<p style="font-family: 'Roboto', sans-serif;color:white;font-size:40px;" class="text-center p-4">STAY FIT</p>
+<div class="p-4" style="background-color:black;">
+	<p style="font-family: 'Roboto', sans-serif;color:white;font-size:36px;" class="text-center p-2">STAY FIT</p>
 	<hr style="background-color:white;width:48px;">
-	<p style="font-family: 'Roboto', sans-serif;color:white;font-size:40px;" class="text-center p-4">STAY HEALTHY</p>
+	<p style="font-family: 'Roboto', sans-serif;color:white;font-size:36px;" class="text-center p-2">STAY HEALTHY</p>
 </div>
 
 
