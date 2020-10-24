@@ -117,7 +117,7 @@
 <div class="m-4">
 	<div class="row mb-5 mt-5">
 		<div class="col-md-6 mt-4 mb-4">
-			<form onsubmit="disableButton()" class="p-3" method="POST" action="#" style="background-color: #a4508b;background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);">
+			<form onsubmit="disableButton()" class="p-3" method="POST" action="#" style="background-color: #fbb034;background-image: linear-gradient(315deg, #fbb034 0%, #ffdd00 74%);">
      				<div class="form-group">
         				<label for="inputname">Name</label>
         				<input type="text" class="form-control" id="inputname" placeholder="name" name="name" required>
