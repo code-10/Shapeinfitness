@@ -72,28 +72,28 @@
 
 <p style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-5 mb-2">OUR FACILITIES</p>
 
-<div class="m-5">
+<div class="container">
 	<div class="row">
 		<div class="col-md-2">
-			<img src="assets/cardinfo.jpg" alt="Avatar" class="image">
+			<img src="assets/main.jpg" alt="Avatar" class="image">
   			<div class="overlay">
     				<div class="text">Content</div>
   			</div>
 		</div>
 		<div class="col-md-2">
-			<img src="assets/cardinfo.jpg" alt="Avatar" class="image">
+			<img src="assets/main.jpg" alt="Avatar" class="image">
   			<div class="overlay">
     				<div class="text">Content</div>
   			</div>
 		</div>
 		<div class="col-md-2">
-			<img src="assets/cardinfo.jpg" alt="Avatar" class="image">
+			<img src="assets/main.jpg" alt="Avatar" class="image">
   			<div class="overlay">
     				<div class="text">Content</div>
   			</div>
 		</div>
 		<div class="col-md-2">
-			<img src="assets/cardinfo.jpg" alt="Avatar" class="image">
+			<img src="assets/main.jpg" alt="Avatar" class="image">
   			<div class="overlay">
     				<div class="text">Content</div>
   			</div>
