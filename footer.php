@@ -13,8 +13,8 @@
       <div class="col-md-6 mt-md-0 mt-3">
 
         <!-- Content -->
-        <h5 class="text-uppercase">Shape in fitness</h5>
-        <p>Women's Gym</p>
+        <h5 class="text-uppercase">Shape in</h5>
+        <p>Women's Fitness Gym</p>
 
       </div>
       <!-- Grid column -->
@@ -43,8 +43,8 @@
   <!-- Footer Links -->
 
   <!-- Copyright -->
-  <div class="footer-copyright text-center py-3">© 2020 Copyright:
-    <a href="#" style="color:white;">Shapeinfitness</a>
+  <div class="footer-copyright text-center py-3">©Copyright:
+    <a href="#" style="color:white;">Shape in</a>
   </div>
   <!-- Copyright -->
 
