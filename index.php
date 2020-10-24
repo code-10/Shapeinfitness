@@ -104,8 +104,9 @@
 
 
 <div class="p-4" style="background-color:black;">
-	<p style="font-family: 'Roboto', sans-serif;color:white;font-size:36px;" class="text-center p-2">SHAPE IN</p>
-	<p style="font-family: 'Roboto', sans-serif;color:white;font-size:24px;" class="text-center p-2">Women's Fitness Gym</p>
+	<p style="font-family: 'Roboto', sans-serif;color:white;font-size:36px;" class="text-center p-1">SHAPE IN</p>
+	<hr style="background-color:white;width:48px;">
+	<p style="font-family: 'Roboto', sans-serif;color:white;font-size:24px;" class="text-center p-1">Women's Fitness Gym</p>
 </div>
 
 
