@@ -45,7 +45,7 @@
 
 
 <!--services-->
-<div class="container-fluid mt-5 mb-5">
+<div class="m-4 container-fluid mt-5 mb-5">
    <div class="row">
       <div class="col">
          <a href="#">
