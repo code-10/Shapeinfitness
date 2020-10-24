@@ -13,7 +13,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark" style="background-color:#000000;">
   <a class="navbar-brand" href="#">
-    <img src="assets/logo.png" width="30" height="30" alt="">
+    <img src="assets/logo.png" width="80" height="80" alt="">
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
