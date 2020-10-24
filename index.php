@@ -45,7 +45,15 @@
 
 
 
-
+<a href="#">
+    <figure>
+        <div class="date"><span class="card-date-day">20</span><span class="card-date-month">APR</span></div>
+        <figcaption>
+            <h4> <span>The arsonist had oddly shaped feet</span></h4>
+            <p>The magic Indian is a mysterious spiritual force, and we're going to Cathedral Rock, and that's the vortex of the heart.</p>
+        </figcaption>
+    </figure>
+</a>
 	
 	
 	
