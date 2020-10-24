@@ -32,8 +32,13 @@
 
 
 
-<div>
+<!--<div>
 	<img src="assets/main.jpg" class="img-fluid main" alt="Shapeinfitness">
+</div>-->
+
+
+<div class="module mid">
+  <h2>Shape in Fitness</h2>
 </div>
 
 
