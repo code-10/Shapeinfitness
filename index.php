@@ -32,11 +32,22 @@
 
 
 
-<div>
+<!--<div>
 	<img src="assets/main.jpg" class="img-fluid main" alt="Shapeinfitness">
-	<h1 class="centered">Shape in Fitness</h1>
+</div>-->
+
+
+<!--Main-->
+
+<div class="hero-image">
+  <div class="hero-text">
+    <h1>I am John Doe</h1>
+    <p>And I'm a Photographer</p>
+    <button>Hire me</button>
+  </div>
 </div>
 
+<!--main end-->
 
 
 <!--card css-->
