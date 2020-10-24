@@ -2,7 +2,12 @@
 	include_once 'header.php';
 ?>
 
-
+<!--css and js-->
+	<link rel="stylesheet" href="static/card.css">
+	<link rel="stylesheet" href="static/main.css">
+	<link rel="stylesheet" href="static/gallery.css">
+	<script src="static/gallery.js"></script>
+<!--css and js end-->
 
 <nav class="navbar sticky-top navbar-expand-lg navbar-dark" style="background-color:#000000;">
   <a class="navbar-brand" href="#">Shapeinfitness</a>
@@ -100,63 +105,24 @@
 
 <!--Gallery-->
 
-<!--Carousel Wrapper-->
-<div id="carousel-example-2" class="carousel slide carousel-fade z-depth-1-half" data-ride="carousel">
-  <!--Indicators-->
-  <ol class="carousel-indicators">
-    <li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-example-2" data-slide-to="1"></li>
-    <li data-target="#carousel-example-2" data-slide-to="2"></li>
-  </ol>
-  <!--/.Indicators-->
-  <!--Slides-->
-  <div class="carousel-inner" role="listbox">
-    <div class="carousel-item active">
-      <div class="view">
-        <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(105).jpg" alt="First slide">
-        <div class="mask rgba-black-light"></div>
+<div class="container" id="gallery">
+   <h1 class="font-weight-light text-center text-lg-left mt-4 mb-0">Gallery</h1>
+   <hr class="mt-2 mb-5">
+   <div class="row text-center text-lg-left">
+      <? $c=1; for($i=0;$i<8;$i++) { ?>
+      <div class="col-lg-3 col-md-4 col-6">
+         <a href="#gallery" class="d-block mb-4 h-100">
+         <img id="myImg<?=$i?>" class="img-fluid thumb-nail" src="assets/main.jpg" alt="">
+         </a>
       </div>
-      <div class="carousel-caption">
-        <h3 class="h3-responsive">This is the first title</h3>
-        <p>First text</p>
+      <div id="myModal<?=$i?>" class="modal">
+         <span class="close">&times;</span>
+         <img class="modal-content" id="img<?=$i?>">
+         <div id="caption<?=$i?>"></div>
       </div>
-    </div>
-    <div class="carousel-item">
-      <!--Mask color-->
-      <div class="view">
-        <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(115).jpg" alt="Second slide">
-        <div class="mask rgba-black-light"></div>
-      </div>
-      <div class="carousel-caption">
-        <h3 class="h3-responsive">Thir is the second title</h3>
-        <p>Secondary text</p>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <!--Mask color-->
-      <div class="view">
-        <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(108).jpg" alt="Third slide">
-        <div class="mask rgba-black-light"></div>
-      </div>
-      <div class="carousel-caption">
-        <h3 class="h3-responsive">This is the third title</h3>
-        <p>Third text</p>
-      </div>
-    </div>
-  </div>
-  <!--/.Slides-->
-  <!--Controls-->
-  <a class="carousel-control-prev" href="#carousel-example-2" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carousel-example-2" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-  <!--/.Controls-->
+      <? $c++; } ?>
+   </div>
 </div>
-<!--/.Carousel Wrapper-->
 
 <!--Gallery end-->
 
@@ -176,12 +142,5 @@
 	
 </style>
 
-
-<!--css and js-->
-	<link rel="stylesheet" href="static/card.css">
-	<link rel="stylesheet" href="static/main.css">
-	<link rel="stylesheet" href="static/gallery.css">
-	<script src="static/gallery.js"></script>
-<!--css and js end-->
 
 
