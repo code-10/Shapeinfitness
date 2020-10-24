@@ -38,7 +38,6 @@
 
 
 <!--Main-->
-<img src="assets/main.jpg" class="img-fluid main" alt="Shapeinfitness">
 <div class="hero-image">
   <div class="hero-text">
     <h1>Shape in Fitness</h1>
@@ -46,7 +45,6 @@
     <button class="btn draw-border">Learn More</button>
   </div>
 </div>
-
 <!--main end-->
 
 
