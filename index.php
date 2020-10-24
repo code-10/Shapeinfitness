@@ -47,7 +47,7 @@
 <!--services-->
 <div id="card" class="m-4">
    <div class="row">
-      <div class="col-3">
+      <div class="col-md-3 m-2">
          <a href="#card">
             <figure>
                <figcaption>
@@ -57,7 +57,7 @@
             </figure>
          </a>
       </div>
-      <div class="col-3">
+      <div class="col-md-3 m-2">
          <a href="#card">
             <figure>
                <figcaption>
@@ -67,7 +67,7 @@
             </figure>
          </a>
       </div>
-      <div class="col-3">
+      <div class="col-md-3 m-2">
          <a href="#card">
             <figure>
                <figcaption>
@@ -77,7 +77,7 @@
             </figure>
          </a>
       </div>
-      <div class="col-3">
+      <div class="col-md-3 m-2">
          <a href="#card">
             <figure>
                <figcaption>
