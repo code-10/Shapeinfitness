@@ -134,7 +134,7 @@
         				<label for="inputname">Message</label>
         				<textarea row="4" cols="40" type="text" class="form-control" id="inputmessage" placeholder="message" name="message" required></textarea>
    	 			</div>
-				<button type="submit" name="send" class="btn btn-outline-light">Send</button>
+				<button type="submit" class="btn btn-outline-light text-dark">Light</button>
 			</form>
 		</div>
 		<div class="col">
