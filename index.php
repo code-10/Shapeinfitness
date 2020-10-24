@@ -32,14 +32,19 @@
 
 
 
-<div>
+<!--<div>
 	<img src="assets/main.jpg" class="img-fluid main" alt="Shapeinfitness">
-</div>
+</div>-->
+
+<section class="head">
+	<a href="" data-bf="10 Stunning" data-af="with sass">SHAPE IN FITNESS</a>
+</section>
 
 
 
 <!--card css-->
 	<link rel="stylesheet" href="static/card.css">
+	<link rel="stylesheet" href="static/main.css">
 <!--card css end-->
 
 
@@ -90,6 +95,9 @@
    </div>
 </div>
 <!--services end-->
+
+
+
 
 
 
