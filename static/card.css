@@ -47,7 +47,7 @@
 	 background-size: 175%;
 }
  figure:hover:after {
-	 content: '♣︎';
+	 /*content: '♣︎';*/
 	 background-color: rgba(241, 196, 15, 0.9);
 	 color: white;
 	 font-size: 72px;
