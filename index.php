@@ -44,7 +44,31 @@
 
 
 
-<div class="container m-5"> 
+<div class="container mt-5 mb-5"> 
+<a href="#">
+    <figure>
+        <figcaption>
+            <h4> <span>Cardio and Yoga</span></h4>
+            <p>Shape in fitness provides Cardio and Yoga</p>
+        </figcaption>
+    </figure>
+</a>
+<a href="#">
+    <figure>
+        <figcaption>
+            <h4> <span>Cardio and Yoga</span></h4>
+            <p>Shape in fitness provides Cardio and Yoga</p>
+        </figcaption>
+    </figure>
+</a>
+<a href="#">
+    <figure>
+        <figcaption>
+            <h4> <span>Cardio and Yoga</span></h4>
+            <p>Shape in fitness provides Cardio and Yoga</p>
+        </figcaption>
+    </figure>
+</a>
 <a href="#">
     <figure>
         <figcaption>
