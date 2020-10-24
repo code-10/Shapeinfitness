@@ -47,9 +47,9 @@
 <!--services-->
 <div id="card" class="m-4">
    <div class="row">
-      <div class="col-md-3 mt-4 mb-4 mars">
+      <div class="col-md-3 mt-4 mb-4">
           <!--<a href="">-->
-            <figure>
+            <figure style="margin:0.9rem!important">
                <figcaption>
                   <h4> <span>Cardio and Yoga</span></h4>
                   <p>Shape in fitness provides Cardio and Yoga</p>
@@ -57,9 +57,9 @@
             </figure>
          <!--</a>-->
       </div>
-      <div class="col-md-3 mt-4 mb-4  mars">
+      <div class="col-md-3 mt-4 mb-4">
           <!--<a href="">-->
-            <figure>
+            <figure style="margin:0.9rem!important">
                <figcaption>
                   <h4> <span>Cardio and Yoga</span></h4>
                   <p>Shape in fitness provides Cardio and Yoga</p>
@@ -67,9 +67,9 @@
             </figure>
          <!--</a>-->
       </div>
-      <div class="col-md-3 mt-4 mb-4 mars">
+      <div class="col-md-3 mt-4 mb-4">
           <!--<a href="">-->
-            <figure>
+            <figure style="margin:0.9rem!important">
                <figcaption>
                   <h4> <span>Cardio and Yoga</span></h4>
                   <p>Shape in fitness provides Cardio and Yoga</p>
@@ -77,9 +77,9 @@
             </figure>
          <!--</a>-->
       </div>
-      <div class="col-md-3 mt-4 mb-4 mars">
+      <div class="col-md-3 mt-4 mb-4">
          <!--<a href="">-->
-            <figure>
+            <figure style="margin:0.9rem!important">
                <figcaption>
                   <h4> <span>Cardio and Yoga</span></h4>
                   <p>Shape in fitness provides Cardio and Yoga</p>
