@@ -119,17 +119,25 @@
 		<div class="col-md-4 m-4">
 			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15548.576152625568!2d77.5934389!3d13.0264981!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xafffc1080f8f8457!2sSHAPE%20IN%20-%20Women&#39;s%20Fitness%20Gym%20and%20Group%20classes%20RT%20NAGAR!5e0!3m2!1sen!2sin!4v1603537909194!5m2!1sen!2sin" width="100%" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 		</div>
-		<div class="col-md-4 m-4">
-			<form action="#">
-				<label for="name">Name</label>
-					<input type="text" id="name" name="name" placeholder="Your Name">
-				<label for="email">Email</label>
-					<input type="email" id="email" name="email" placeholder="Your Email">
-				<label for="number">Phone</label>
-					<input type="number" id="number" name="number" placeholder="Your Contact No">
-				<label for="message">Message</label>
-				<textarea rows="4" cols="20" id="Message" name="message" placeholder="Write something.."></textarea>
-				<input type="submit" value="Submit"> 
+		<div class="col-md-5 m-4">
+			<form class="jumbotron m-4" method="POST" action="#">
+     				<div class="form-group">
+        				<label for="inputname">Name</label>
+        				<input type="text" class="form-control" id="inputname" placeholder="name" name="name" required>
+   	 			</div>
+   	 			<div class="form-group">
+        				<label for="inputEmail">Email</label>
+        				<input type="email" class="form-control" id="inputemail" placeholder="email" name="email" required>
+    				</div>
+				<div class="form-group">
+        				<label for="inputnumber">Phone</label>
+        				<input type="Number" class="form-control" id="inputnumber" placeholder="number" name="number" required>
+   	 			</div>
+				<div class="form-group">
+        				<label for="inputname">Message</label>
+        				<textarea row="4" cols="40" type="text" class="form-control" id="inputmessage" placeholder="message" name="message" required>
+   	 			</div>
+    				<button type="submit" name="send" class="btn btn-dark">Send</button>
 			</form>
 		</div>
 	</div>
