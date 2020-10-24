@@ -48,13 +48,6 @@
 <!--main end-->
 
 
-<!--card css-->
-	<link rel="stylesheet" href="static/card.css">
-	<link rel="stylesheet" href="static/main.css">
-<!--card css end-->
-
-
-
 <!--services-->
 <div id="card" class="m-4">
    <div class="row">
@@ -105,6 +98,12 @@
 
 
 
+<!--Gallery-->
+
+
+
+<!--Gallery end-->
+
 
 
 
@@ -122,3 +121,12 @@
 	@media (min-width:1281px) { .main{object-fit: cover;width: 100%;height: 698px;}/* hi-res laptops and desktops */ }
 	
 </style>
+
+
+<!--css and js-->
+	<link rel="stylesheet" href="static/card.css">
+	<link rel="stylesheet" href="static/main.css">
+	<script src="static/gallery.js"></script>
+<!--css and js end-->
+
+
