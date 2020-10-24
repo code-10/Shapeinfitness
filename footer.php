@@ -27,9 +27,9 @@
         <!-- Links -->
         <h5 class="text-uppercase">Social</h5>
         <a  href="tel:+91 9739796989" target="_blank"><span style="color:white;" class="fa fa-phone m-4"></span></a>
-        <a href="#" target="_blank"><span style="color:white;" class="fa fa-facebook m-4"></span></a>
-        <a href="#" target="_blamk"><span style="color:white;" class="fa fa-instagram m-4"></span></a>
-        <a href="#" target="_blank"><span style="color:white;" class="fa fa-envelope m-4"></span></a>
+        <a href="https://www.facebook.com/shape_in_rt_nagar-110153597340688/" target="_blank"><span style="color:white;" class="fa fa-facebook m-4"></span></a>
+        <a href="https://www.instagram.com/shape_in_rt_nagar?r=nametag" target="_blamk"><span style="color:white;" class="fa fa-instagram m-4"></span></a>
+        <a href="sunilkumarj1996@gmail.com" target="_blank"><span style="color:white;" class="fa fa-envelope m-4"></span></a>
 
       </div>
       <!-- Grid column -->
