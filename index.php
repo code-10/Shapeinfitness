@@ -48,44 +48,44 @@
 <div id="card" class="m-4">
    <div class="row">
       <div class="col-md-3 mars">
-         <a href="#card">
+          <!--<a href="">-->
             <figure>
                <figcaption>
                   <h4> <span>Cardio and Yoga</span></h4>
                   <p>Shape in fitness provides Cardio and Yoga</p>
                </figcaption>
             </figure>
-         </a>
+         <!--</a>-->
       </div>
       <div class="col-md-3 mars">
-         <a href="#card">
+          <!--<a href="">-->
             <figure>
                <figcaption>
                   <h4> <span>Cardio and Yoga</span></h4>
                   <p>Shape in fitness provides Cardio and Yoga</p>
                </figcaption>
             </figure>
-         </a>
+         <!--</a>-->
       </div>
       <div class="col-md-3 mars">
-         <a href="#card">
+          <!--<a href="">-->
             <figure>
                <figcaption>
                   <h4> <span>Cardio and Yoga</span></h4>
                   <p>Shape in fitness provides Cardio and Yoga</p>
                </figcaption>
             </figure>
-         </a>
+         <!--</a>-->
       </div>
       <div class="col-md-3 mars">
-         <a href="#card">
+         <!--<a href="">-->
             <figure>
                <figcaption>
                   <h4> <span>Cardio and Yoga</span></h4>
                   <p>Shape in fitness provides Cardio and Yoga</p>
                </figcaption>
             </figure>
-         </a>
+         <!--</a>-->
       </div>
    </div>
 </div>
