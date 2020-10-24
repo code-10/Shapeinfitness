@@ -27,6 +27,10 @@
         <!-- Links -->
         <h5 class="text-uppercase">Social</h5>
 
+        <a href="#" target="_blank"><span class="fab fa-facebook-f"></span></a>
+        <a href="#" target="_blamk"><span class="fab fa-instagram"></span></a>
+        <a href="#" target="_blank"><span class="fab fa-twitter"></span></a>
+        <a href="#" target="_blank"><span class="fab fa-linkedin"></span></a>
         
 
       </div>
