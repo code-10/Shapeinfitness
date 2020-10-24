@@ -44,41 +44,52 @@
 
 
 
-<div class="container mt-5 mb-5"> 
-<a href="#">
-    <figure>
-        <figcaption>
-            <h4> <span>Cardio and Yoga</span></h4>
-            <p>Shape in fitness provides Cardio and Yoga</p>
-        </figcaption>
-    </figure>
-</a>
-<a href="#">
-    <figure>
-        <figcaption>
-            <h4> <span>Cardio and Yoga</span></h4>
-            <p>Shape in fitness provides Cardio and Yoga</p>
-        </figcaption>
-    </figure>
-</a>
-<a href="#">
-    <figure>
-        <figcaption>
-            <h4> <span>Cardio and Yoga</span></h4>
-            <p>Shape in fitness provides Cardio and Yoga</p>
-        </figcaption>
-    </figure>
-</a>
-<a href="#">
-    <figure>
-        <figcaption>
-            <h4> <span>Cardio and Yoga</span></h4>
-            <p>Shape in fitness provides Cardio and Yoga</p>
-        </figcaption>
-    </figure>
-</a>
+<!--services-->
+<div class="container mt-5 mb-5">
+   <div class="row">
+      <div class="col">
+         <a href="#">
+            <figure>
+               <figcaption>
+                  <h4> <span>Cardio and Yoga</span></h4>
+                  <p>Shape in fitness provides Cardio and Yoga</p>
+               </figcaption>
+            </figure>
+         </a>
+      </div>
+      <div class="col">
+         <a href="#">
+            <figure>
+               <figcaption>
+                  <h4> <span>Cardio and Yoga</span></h4>
+                  <p>Shape in fitness provides Cardio and Yoga</p>
+               </figcaption>
+            </figure>
+         </a>
+      </div>
+      <div class="col">
+         <a href="#">
+            <figure>
+               <figcaption>
+                  <h4> <span>Cardio and Yoga</span></h4>
+                  <p>Shape in fitness provides Cardio and Yoga</p>
+               </figcaption>
+            </figure>
+         </a>
+      </div>
+      <div class="col">
+         <a href="#">
+            <figure>
+               <figcaption>
+                  <h4> <span>Cardio and Yoga</span></h4>
+                  <p>Shape in fitness provides Cardio and Yoga</p>
+               </figcaption>
+            </figure>
+         </a>
+      </div>
+   </div>
 </div>
-	
+<!--services end-->
 
 
 
