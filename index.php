@@ -54,7 +54,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap" rel="stylesheet">
 
 <div class="p-2" style="background-color:black;">
-	<p style="font-family: 'Roboto', sans-serif;">STAY FIT - STAY HEALTHY</p>
+	<p style="font-family: 'Roboto', sans-serif;color:white;font-size:48px;" class="text-center p-4">STAY FIT</p>
+	<p style="font-family: 'Roboto', sans-serif;color:white;font-size:48px;" class="text-center p-4">STAY HEALTHY</p>
 </div>
 
 
