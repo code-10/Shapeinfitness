@@ -46,7 +46,7 @@
   <div class="hero-text">
     <h1 style="font-family: 'Roboto', sans-serif;color:white;">Shape in Fitness</h1>
     <p>Women's Gym</p>
-    <button class="btn draw-border" style="padding:1em;">Learn More</button>
+    <a href="#services"><button class="btn draw-border" style="padding:1em;">Learn More</button></a>
   </div>
 </div>
 <!--main end-->
