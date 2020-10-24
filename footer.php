@@ -25,26 +25,14 @@
       <div class="col-md-6 mb-md-0 mb-3">
 
         <!-- Links -->
-        <h5 class="text-uppercase">Links</h5>
+        <h5 class="text-uppercase">Social</h5>
 
-        <ul class="list-unstyled">
-          <li>
-            <a href="#!">A</a>
-          </li>
-          <li>
-            <a href="#!">B</a>
-          </li>
-          <li>
-            <a href="#!">C</a>
-          </li>
-          <li>
-            <a href="#!">D</a>
-          </li>
-        </ul>
+        
 
       </div>
       <!-- Grid column -->
 
+                 
 
     </div>
     <!-- Grid row -->
