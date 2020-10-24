@@ -1,7 +1,7 @@
 <?php include_once 'header.php'; ?>
 
 <!-- Footer -->
-<footer class="page-footer font-small blue pt-4">
+<footer class="page-footer font-small black pt-4">
 
   <!-- Footer Links -->
   <div class="container-fluid text-center text-md-left">
@@ -54,7 +54,7 @@
 
   <!-- Copyright -->
   <div class="footer-copyright text-center py-3">© 2020 Copyright:
-    <a href="https://mdbootstrap.com/"> MDBootstrap.com</a>
+    <a href="#">Shapeinfitness</a>
   </div>
   <!-- Copyright -->
 
