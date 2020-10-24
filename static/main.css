@@ -84,11 +84,4 @@
  .btn:focus {
 	 outline: 2px dotted #55d7dc;
 }
- body {
-	 background: #1f1a25;
-	 display: flex;
-	 align-items: center;
-	 justify-content: center;
-	 min-height: 100vh;
-}
  
