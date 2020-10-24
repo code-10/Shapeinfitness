@@ -2,6 +2,8 @@
 	include_once 'header.php';
 ?>
 
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap" rel="stylesheet">
+
 <!--css and js-->
 	<link rel="stylesheet" href="static/card.css">
 	<link rel="stylesheet" href="static/main.css">
@@ -40,7 +42,7 @@
 <!--Main-->
 <div class="hero-image">
   <div class="hero-text">
-    <h1>Shape in Fitness</h1>
+    <h1 style="font-family: 'Roboto', sans-serif;color:white;">Shape in Fitness</h1>
     <p>Women's Gym</p>
     <button class="btn draw-border">Learn More</button>
   </div>
@@ -51,7 +53,7 @@
 
 <!--motivation-->
 
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap" rel="stylesheet">
+
 
 <div class="p-1" style="background-color:black;">
 	<p style="font-family: 'Roboto', sans-serif;color:white;font-size:40px;" class="text-center p-4">STAY FIT</p>
