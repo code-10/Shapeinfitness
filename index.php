@@ -37,7 +37,7 @@
 </div>-->
 
 
-<div class="module mid views">
+<div class="module mid img-fluid views">
   <h1>Shape in Fitness</h1>
 </div>
 
