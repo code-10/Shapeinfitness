@@ -41,7 +41,7 @@
 
 <div class="hero-image">
   <div class="hero-text">
-    <h1Shape in Fitness</h1>
+    <h1>Shape in Fitness</h1>
     <p>Women's Gym</p>
     <button class="btn draw-border">Learn More</button>
   </div>
