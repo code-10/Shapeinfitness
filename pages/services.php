@@ -10,19 +10,19 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link" href="#">Home</a>
+        <a class="nav-link" href="../index.php">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Location</a>
+        <a class="nav-link" href="../index.php#location">Location</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Services</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Gallery</a>
+        <a class="nav-link" href="../index.php#gallery">Gallery</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Contact Us</a>
+        <a class="nav-link" href="../index.php#contactus">Contact Us</a>
       </li>
     </ul>
   </div>
