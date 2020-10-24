@@ -38,7 +38,7 @@
 
 
 <!--Main-->
-
+<img src="assets/main.jpg" class="img-fluid main" alt="Shapeinfitness">
 <div class="hero-image">
   <div class="hero-text">
     <h1>Shape in Fitness</h1>
