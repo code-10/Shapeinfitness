@@ -38,7 +38,7 @@
 
 
 <div class="module mid">
-  <h2>Shape in Fitness</h2>
+  <h1 class="display-1">Shape in Fitness</h1>
 </div>
 
 
