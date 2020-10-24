@@ -117,7 +117,7 @@
 <div class="container">
 	<div class="row mb-5 mt-5">
 		<div class="col">
-			<form class="p-4" method="POST" action="#" style="background-color: #a4508b;background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);">
+			<form class="p-3" method="POST" action="#" style="background-color: #a4508b;background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);">
      				<div class="form-group">
         				<label for="inputname">Name</label>
         				<input type="text" class="form-control" id="inputname" placeholder="name" name="name" required>
@@ -132,7 +132,7 @@
    	 			</div>
 				<div class="form-group">
         				<label for="inputname">Message</label>
-        				<textarea row="4" cols="40" type="text" class="form-control" id="inputmessage" placeholder="message" name="message" required></textarea>
+        				<textarea rows="4" cols="200" type="text" class="form-control" id="inputmessage" placeholder="message" name="message" required></textarea>
    	 			</div>
 				<button type="submit" class="btn btn-outline-light text-dark">Light</button>
 			</form>
