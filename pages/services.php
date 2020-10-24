@@ -13,9 +13,6 @@
         <a class="nav-link" href="../index.php">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="../index.php#location">Location</a>
-      </li>
-      <li class="nav-item">
         <a class="nav-link" href="#">Services</a>
       </li>
       <li class="nav-item">
@@ -23,6 +20,9 @@
       </li>
       <li class="nav-item">
         <a class="nav-link" href="../index.php#contactus">Contact Us</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="../index.php#location">Location</a>
       </li>
     </ul>
   </div>
