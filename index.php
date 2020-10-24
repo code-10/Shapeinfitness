@@ -41,9 +41,9 @@
 
 <div class="hero-image">
   <div class="hero-text">
-    <h1>I am John Doe</h1>
-    <p>And I'm a Photographer</p>
-    <button>Hire me</button>
+    <h1Shape in Fitness</h1>
+    <p>Women's Gym</p>
+    <button class="btn draw-border">Learn More</button>
   </div>
 </div>
 
