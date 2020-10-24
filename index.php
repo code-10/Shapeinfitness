@@ -32,14 +32,10 @@
 
 
 
-<!--<div>
+<div>
 	<img src="assets/main.jpg" class="img-fluid main" alt="Shapeinfitness">
-</div>-->
-
-
-<div class="module mid img-fluid views">
-  <h1>Shape in Fitness</h1>
 </div>
+
 
 
 <!--card css-->
