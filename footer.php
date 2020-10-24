@@ -1,7 +1,7 @@
 <?php include_once 'header.php'; ?>
 
 <!-- Footer -->
-<footer class="page-footer font-small black pt-4">
+<footer class="page-footer font-small pt-4" style="background-color:black;color:white;">
 
   <!-- Footer Links -->
   <div class="container-fluid text-center text-md-left">
@@ -54,7 +54,7 @@
 
   <!-- Copyright -->
   <div class="footer-copyright text-center py-3">© 2020 Copyright:
-    <a href="#">Shapeinfitness</a>
+    <a href="#" style="color:white;">Shapeinfitness</a>
   </div>
   <!-- Copyright -->
 
