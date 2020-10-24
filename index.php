@@ -69,7 +69,7 @@
 <!--Gallery-->
 
 
-<p style="font-family: 'Roboto', sans-serif;color:white;font-size:40px;" class="text-center mt-5 mb-2">GALLERY</p>
+<p style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-5 mb-2">GALLERY</p>
 
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
