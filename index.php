@@ -146,6 +146,18 @@
 <!--contact end-->
 
 
+<script>
+	
+$(function(){ 
+     var navMain = $(".navbar-collapse");
+
+     navMain.on("click", "a", null, function () {
+         navMain.collapse('hide');
+     });
+ });	
+	
+</script>
+
 <?php include_once 'footer.php'; ?>
 
 
