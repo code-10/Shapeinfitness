@@ -45,7 +45,7 @@
 
 
 <!--services-->
-<div id="card" class="m-4 container-fluid mt-5 mb-5">
+<div id="card" class="m-4">
    <div class="row">
       <div class="col-3">
          <a href="#card">
