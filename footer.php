@@ -26,7 +26,7 @@
 
         <!-- Links -->
         <h5 class="text-uppercase">Social</h5>
-        <a href="#" target="_blank"><span style="color:white;" class="fa fa-phone m-4"></span></a>
+        <a  href="tel:+91 9739796989" target="_blank"><span style="color:white;" class="fa fa-phone m-4"></span></a>
         <a href="#" target="_blank"><span style="color:white;" class="fa fa-facebook m-4"></span></a>
         <a href="#" target="_blamk"><span style="color:white;" class="fa fa-instagram m-4"></span></a>
         <a href="#" target="_blank"><span style="color:white;" class="fa fa-envelope m-4"></span></a>
