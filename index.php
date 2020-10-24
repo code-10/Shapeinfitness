@@ -110,7 +110,7 @@
       <? $c=1; for($i=0;$i<8;$i++) { ?>
       <div class="col-lg-3 col-md-4 col-6">
          <a href="#gallery" class="d-block mb-4 h-100">
-         <img id="myImg<?=$i?>" class="img-fluid thumb-nail" src="../assets/<?=$c?>.jpeg" alt="">
+         <img id="myImg<?=$i?>" class="img-fluid thumb-nail" src="assets/<?=$c?>.jpeg" alt="">
          </a>
       </div>
       <div id="myModal<?=$i?>" class="modal">
