@@ -119,7 +119,7 @@
 		<div class="col-md-4 m-4">
 			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15548.576152625568!2d77.5934389!3d13.0264981!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xafffc1080f8f8457!2sSHAPE%20IN%20-%20Women&#39;s%20Fitness%20Gym%20and%20Group%20classes%20RT%20NAGAR!5e0!3m2!1sen!2sin!4v1603537909194!5m2!1sen!2sin" width="100%" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 		</div>
-		<div class="col-md-5 m-4">
+		<div class="col-md-5 m-1">
 			<form class="jumbotron m-4" method="POST" action="#">
      				<div class="form-group">
         				<label for="inputname">Name</label>
