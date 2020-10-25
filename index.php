@@ -83,16 +83,11 @@
 		       "Join the party! Zumba is a dance based workout. The styles of dance include hip hop, samba, mambo, 
 		       salsa and more. If you love to swing your hips and groove to the beat – Zumba is a must try. The instructors 
 		       create a lively environment with great music and great peopleallowing you to burn calories without even realizing
-		       you are working out! This high calorie burning workout will help shed excess body fat and tone and tighten all the 
-		       right places! The choreographed dance moves will help get your heart pumping and increase your endurance. 
-		       You are guaranteed to leave a zumba class in a better mood and with increased confidence!",
+		       you are working out!The choreographed dance moves will help get your heart pumping and increase your endurance.",
 		       "A simple yoga practice can increase your levels of concentration, alleviate symptoms of anxiety,
-		       help you sleep better at time, and over time, regain mobility, flexibility and range of motion. 
-		       As yoga does not discriminate, all levels are invited to practice. Whether it is your first time, 
-		       or your 100th, your experience will be just as freeing, and calming. With the room temperature slightly warmer,
-		       your body will begin relaxing the moment you enter the room and the energy from the class will make you feel free and at ease.
-		       Shape in yoga classes are designed for all levels of abilities and the instructors are trained to adapt your practice to optimize
-		       your experience so that you are comfortable and respecting your body.",
+		       help you sleep better at time, and over time, regain mobility, flexibility and range of motion.
+		       Shape in yoga classes are designed for all levels of abilities and the instructors are trained to adapt
+		       your practice to optimize your experience so that you are comfortable and respecting your body.",
 		       "Pilates with strength training and high-energy music that will keep your heart pumping throughout.
 		       Expect an intense fast-paced, total body workout that will not only sculpt and tone long lean muscles,
 		       but will improve endurance, stamina, balance, alignment and of course core strength.");
@@ -111,7 +106,7 @@
 					<p><?=$serviceinfo[$c]?></p>
 				</figcaption>
 				<div class="hover">
-					<p style="font-family: 'Roboto', sans-serif;color:black;font-size:13px;" class="p-2"><?=$content[$c]?><p>
+					<p style="font-family: 'Roboto', sans-serif;color:black;font-size:22px;" class="p-4"><?=$content[$c]?><p>
 				</div>
 				<!--<a href="#"></a>-->
 			</figure>
