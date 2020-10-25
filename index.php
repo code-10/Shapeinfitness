@@ -75,7 +75,7 @@
 <p id="services" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-5 mb-2">OUR FACILITIES</p>
 
 <div class="m-4">
-		<?$c=1; for($j=1;$j<=3;$j++){ ?>
+		<?$c=1; for($j=1;$j<3;$j++){ ?>
 			<div class="m-4">
 				<div class="card-deck m-2">
 					<? for($i=1;$i<=3;$i++){ ?>
