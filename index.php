@@ -77,7 +77,19 @@
 <?php  
 	$services=Array("Fitness","Weight Loss","Tonning Class","Zumba","Yoga","Pilates");
 	$serviceinfo=Array("Fitness","Weight Loss","Tonning Class","Zumba","Yoga","Pilates");
-	$content=Array("","","","","Come fly with us! Aerial Yoga combines traditional yoga with the use of a hammock to improve alignment, release tension, and decompress the spine through inversion postures.","");
+	$content=Array("",
+		       "",
+		       "",
+		       "Join the party! Zumba is a dance based workout. The styles of dance include hip hop, samba, mambo, 
+		       salsa and more. If you love to swing your hips and groove to the beat – Zumba is a must try. The instructors 
+		       create a lively environment with great music and great peopleallowing you to burn calories without even realizing
+		       you are working out! This high calorie burning workout will help shed excess body fat and tone and tighten all the 
+		       right places! The choreographed dance moves will help get your heart pumping and increase your endurance. 
+		       You are guaranteed to leave a zumba class in a better mood and with increased confidence!",
+		       "Come fly with us! Aerial Yoga combines traditional yoga with the use of a hammock to improve alignment,
+		       release tension, and decompress the spine through inversion postures.",
+		       "The Pilates Reformer is an exercise machine used to incorporate the Pilates exercise technique 
+		       for a challenging and intense workout.");
 ?>
 
 <div class="container">
