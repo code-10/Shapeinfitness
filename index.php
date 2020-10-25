@@ -105,7 +105,7 @@
 					<p><?=$serviceinfo[$c]?></p>
 				</figcaption>
 				<div class="hover">
-					<p style="color:black;"><?=$content[$c]?><p>
+					<p style="font-family: 'Roboto', sans-serif;color:black;font-size:13px;" class="p-2"><?=$content[$c]?><p>
 				</div>
 				<!--<a href="#"></a>-->
 			</figure>
