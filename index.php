@@ -86,10 +86,14 @@
 		       you are working out! This high calorie burning workout will help shed excess body fat and tone and tighten all the 
 		       right places! The choreographed dance moves will help get your heart pumping and increase your endurance. 
 		       You are guaranteed to leave a zumba class in a better mood and with increased confidence!",
-		       "Come fly with us! Aerial Yoga combines traditional yoga with the use of a hammock to improve alignment,
-		       release tension, and decompress the spine through inversion postures.",
-		       "The Pilates Reformer is an exercise machine used to incorporate the Pilates exercise technique 
-		       for a challenging and intense workout.");
+		       "A simple yoga practice can increase your levels of concentration, alleviate symptoms of anxiety,
+		       help you sleep better at time, and over time, regain mobility, flexibility and range of motion. 
+		       As yoga does not discriminate, all levels are invited to practice. Whether it is your first time, 
+		       or your 100th, your experience will be just as freeing, and calming. With the room temperature slightly warmer,
+		       your body will begin relaxing the moment you enter the room and the energy from the class will make you feel free and at ease.
+		       Shape in yoga classes are designed for all levels of abilities and the instructors are trained to adapt your practice to optimize
+		       your experience so that you are comfortable and respecting your body.",
+		       "");
 ?>
 
 <div class="container">
