@@ -44,7 +44,7 @@
 <!--Main-->
 <div class="hero-image">
   <div class="hero-text">
-    <h1 style="font-family: 'Roboto', sans-serif;color:white;">SHAPE IN</h1>
+    <h1 style="font-family: 'Roboto', sans-serif;color:white;font-size:72px;">SHAPE IN</h1>
     <p>Women's Fitness Gym</p>
     <a href="#services"><button class="btn draw-border" style="padding:1em;">Learn More</button></a>
   </div>
