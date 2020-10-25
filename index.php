@@ -93,7 +93,9 @@
 		       your body will begin relaxing the moment you enter the room and the energy from the class will make you feel free and at ease.
 		       Shape in yoga classes are designed for all levels of abilities and the instructors are trained to adapt your practice to optimize
 		       your experience so that you are comfortable and respecting your body.",
-		       "");
+		       "Pilates with strength training and high-energy music that will keep your heart pumping throughout.
+		       Expect an intense fast-paced, total body workout that will not only sculpt and tone long lean muscles,
+		       but will improve endurance, stamina, balance, alignment and of course core strength.");
 ?>
 
 <div class="container">
