@@ -77,12 +77,20 @@
 <?php  
 	$services=Array("Fitness","Weight Loss","Tonning Class","Zumba","Yoga","Pilates");
 	$serviceinfo=Array("Fitness","Weight Loss","Tonning Class","Zumba","Yoga","Pilates");
-	$content=Array("",
-		       "",
-		       "",
+	$content=Array("Fitness increases your life expectancy, reduce your risk of diseases,
+			improve quality of health. Shape in provides extensive fitness classes
+			to keep your body and mind balanced.",
+		       "Shape in provides a weight loss program with a step by step guide 
+		       to lose weight in an effective way both by exercise and food. we believe in persistance
+		       to take you on this journey of weight loss.",
+		       "Toning your muscles reduces fat and body weight. A toned body provides 
+		       more strength, energy and flexibility, and can decrease the risk of developing certain diseases such 
+		       as diabetes and heart disease. Shape in Toning program which includes all the elements required 
+		   	to tone your body.",
 		       "Zumba is a dance based workout. The styles of dance include hip hop, samba, mambo, 
 		       salsa and more. If you love to swing your hips and groove to the beat – Zumba is a must try.
-		       The choreographed dance moves will help get your heart pumping and increase your endurance.",
+		       The choreographed dance moves will help get your heart pumping and increase your endurance.
+		       Shape in Zumba classes to stay fit by participating in a fun activity.",
 		       "A simple yoga practice can increase your levels of concentration, alleviate symptoms of anxiety,
 		       help you sleep better at time, and over time, regain mobility, flexibility and range of motion.
 		       Shape in yoga classes are designed for all levels of abilities and experience union of body, mind and spirit.",
