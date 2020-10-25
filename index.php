@@ -80,14 +80,12 @@
 	$content=Array("",
 		       "",
 		       "",
-		       "Join the party! Zumba is a dance based workout. The styles of dance include hip hop, samba, mambo, 
-		       salsa and more. If you love to swing your hips and groove to the beat – Zumba is a must try. The instructors 
-		       create a lively environment with great music and great peopleallowing you to burn calories without even realizing
-		       you are working out!The choreographed dance moves will help get your heart pumping and increase your endurance.",
+		       "Zumba is a dance based workout. The styles of dance include hip hop, samba, mambo, 
+		       salsa and more. If you love to swing your hips and groove to the beat – Zumba is a must try.
+		       The choreographed dance moves will help get your heart pumping and increase your endurance.",
 		       "A simple yoga practice can increase your levels of concentration, alleviate symptoms of anxiety,
 		       help you sleep better at time, and over time, regain mobility, flexibility and range of motion.
-		       Shape in yoga classes are designed for all levels of abilities and the instructors are trained to adapt
-		       your practice to optimize your experience so that you are comfortable and respecting your body.",
+		       Shape in yoga classes are designed for all levels of abilities and experience union of body, mind and spirit.",
 		       "Pilates with strength training and high-energy music that will keep your heart pumping throughout.
 		       Expect an intense fast-paced, total body workout that will not only sculpt and tone long lean muscles,
 		       but will improve endurance, stamina, balance, alignment and of course core strength.");
