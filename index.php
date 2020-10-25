@@ -87,7 +87,7 @@
 					<p>Which is worse, that everyone has his price, or that the price is always so low.</p>
 				</figcaption>
 				<div class="hover">
-					<i class="ion-android-open"></i>
+					<p style="color:black;">Content<p>
 				</div>
 				<!--<a href="#"></a>-->
 			</figure>
