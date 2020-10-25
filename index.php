@@ -92,7 +92,7 @@
 		       The choreographed dance moves will help get your heart pumping and increase your endurance.
 		       Shape in Zumba classes to stay fit by participating in a fun activity.",
 		       "A simple yoga practice can increase your levels of concentration, alleviate symptoms of anxiety,
-		       help you sleep better at time, and over time, regain mobility, flexibility and range of motion.
+		       help you sleep better at time, and over time, regain flexibility.
 		       Shape in yoga classes are designed for all levels of abilities and experience union of body, mind and spirit.",
 		       "Pilates with strength training and high-energy music that will keep your heart pumping throughout.
 		       Expect an intense fast-paced, total body workout that will not only sculpt and tone long lean muscles,
