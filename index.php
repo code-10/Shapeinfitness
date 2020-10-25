@@ -89,8 +89,7 @@
 		   	to tone your body.",
 		       "Zumba is a dance based workout. The styles of dance include hip hop, samba, mambo, 
 		       salsa and more. If you love to swing your hips and groove to the beat – Zumba is a must try.
-		       The choreographed dance moves will help get your heart pumping and increase your endurance.
-		       Shape in Zumba classes to stay fit by participating in a fun activity.",
+		       Shape in Zumba classes allows you to stay fit by participating in a fun activity.",
 		       "A simple yoga practice can increase your levels of concentration, alleviate symptoms of anxiety,
 		       help you sleep better at time, and over time, regain flexibility.
 		       Shape in yoga classes are designed for all levels of abilities and experience union of body, mind and spirit.",
