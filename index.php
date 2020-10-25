@@ -57,11 +57,11 @@
 
 
 
-<div class="p-4" style="background-color:black;">
+<!--<div class="p-4" style="background-color:black;">
 	<p style="font-family: 'Roboto', sans-serif;color:white;font-size:36px;" class="text-center p-2">STAY FIT</p>
 	<hr style="background-color:white;width:48px;">
 	<p style="font-family: 'Roboto', sans-serif;color:white;font-size:36px;" class="text-center p-2">STAY HEALTHY</p>
-</div>
+</div>-->
 
 
 <!--motivation end-->
