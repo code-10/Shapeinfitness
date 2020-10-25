@@ -75,8 +75,8 @@
 <p id="services" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-5 mb-2">OUR FACILITIES</p>
 
 <?php  
-	$services=Array("Fitness","Weight Loss","Tonning Class","Zumba","Yoga","Pilates");
-	$serviceinfo=Array("Fitness","Weight Loss","Tonning Class","Zumba","Yoga","Pilates");
+	$services=Array("Fitness","Weight Loss","Tonning","Zumba","Yoga","Pilates");
+	$serviceinfo=Array("Fitness","Weight Loss","Tonning","Zumba","Yoga","Pilates");
 	$content=Array("Fitness increases your life expectancy, reduce your risk of diseases,
 			improve quality of health. Shape in provides extensive fitness classes
 			to keep your body and mind balanced.",
