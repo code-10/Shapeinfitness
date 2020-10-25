@@ -13,7 +13,8 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark" style="background-color:#000000;">
   <a class="navbar-brand" href="#">
-    <img src="assets/logo.png" width="80" height="80" alt="">
+    <!--<img src="assets/logo.png" width="80" height="80" alt="">-->
+    <img src="assets/logo.webp" width="80" height="80" alt="">  
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -104,7 +105,7 @@
 		<? for($j=0;$j<3;$j++) { ?>
 		<div class="col-md-4 mt-4 mb-4">
 			<figure class="snip1529">
-				<img src="assets/<?=$services[$c]?>.jpg" alt="pr-sample13" class="size" />
+				<img src="assets/<?=$services[$c]?>.webp" alt="pr-sample13" class="size" />
 				<!--<div class="date"><span class="day">28</span><span class="month">Apr</span></div>-->
 				<figcaption>
 					<h3 class="text-center"><?=$services[$c]?></h3>
