@@ -83,8 +83,10 @@
 						<div class="sigcontainer">
 							<img src="assets/main.jpg" class="img-fluid siglogo" alt="image">
 							<div class="overlay">
+								<h5 class="card-title">Titlee</h5>
 								<div class="sig">
-									<p class="m-4" style="color:#fff"><b>Title</b>Content</p>
+									<p class="m-4" style="color:#fff"><b>heading</b></p>
+									<p>Content</p>
 								</div>
 							</div>
 						</div>
