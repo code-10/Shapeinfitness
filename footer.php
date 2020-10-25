@@ -10,7 +10,7 @@
     <div class="row">
 
       <!-- Grid column -->
-      <div class="col-md-6 mt-md-0 mt-3">
+      <div class="col-md-6 mt-md-0 mt-3 p-4">
 
         <!-- Content -->
         <h5 class="text-uppercase">Shape in</h5>
@@ -25,7 +25,7 @@
       <hr class="clearfix w-100 d-md-none pb-3">
 
       <!-- Grid column -->
-      <div class="col-md-6 mb-md-0 mb-3">
+      <div class="col-md-6 mb-md-0 mb-3 p-4">
 
         <!-- Links -->
         <h5 class="text-uppercase">Social</h5>
