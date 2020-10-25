@@ -17,7 +17,9 @@
         <p>Women's Fitness Gym</p>
         <p>Shape in is a popular space for many female members as they feel that they can workout confidently 
           and accomplish their goals. We believe that exercising should feel natural and by providing women 
-          with this space, they can begin their new journey towards a new and healthier lifestyle that is filled with vitality</p>
+          with this space, they can begin their new journey towards a new and healthier lifestyle that is filled with vitality.
+          We believe that empowerment and self-confidence are both important motivators in maintaining a healthy and active lifestyle.
+          Shape in provides all women with a safe space to feel beautiful, strong, and confident!</p>
 
       </div>
       <!-- Grid column -->
