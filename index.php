@@ -77,6 +77,7 @@
 <?php  
 	$services=Array("Fitness","Weight Loss","Tonning Class","Zumba","Yoga","Pilates");
 	$serviceinfo=Array("Fitness","Weight Loss","Tonning Class","Zumba","Yoga","Pilates");
+	$content=Array("","","","","Come fly with us! Aerial Yoga combines traditional yoga with the use of a hammock to improve alignment, release tension, and decompress the spine through inversion postures.","");
 ?>
 
 <div class="container">
@@ -92,7 +93,7 @@
 					<p><?=$serviceinfo[$c]?></p>
 				</figcaption>
 				<div class="hover">
-					<p style="color:black;">Content<p>
+					<p style="color:black;"><?$content[$c]?><p>
 				</div>
 				<!--<a href="#"></a>-->
 			</figure>
