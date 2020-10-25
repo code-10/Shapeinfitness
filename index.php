@@ -105,7 +105,7 @@
 		<? for($j=0;$j<3;$j++) { ?>
 		<div class="col-md-4 mt-4 mb-4">
 			<figure class="snip1529">
-				<img src="assets/<?=$services[$c]?>.jpg" alt="pr-sample13" />
+				<img src="assets/<?=$services[$c]?>.jpg" alt="pr-sample13" class="size" />
 				<!--<div class="date"><span class="day">28</span><span class="month">Apr</span></div>-->
 				<figcaption>
 					<h3 class="text-center"><?=$services[$c]?></h3>
@@ -231,9 +231,9 @@ $(function(){
 	@media (min-width:320px)  {  .mars{ margin:10px; } /* smartphones, iPhone, portrait 480x320 phones */ }
 	@media (min-width:481px)  {  .mars{ margin:10px; } /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ }
  	@media (min-width:641px)  {  .mars{ margin:10px; } /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ }
-	@media (min-width:961px)  { .main{object-fit: cover;width: 100%;height: 698px;} /* tablet, landscape iPad, lo-res laptops ands desktops */ }
-	@media (min-width:1025px) { .main{object-fit: cover;width: 100%;height: 698px;} /* big landscape tablets, laptops, and desktops */ }
-	@media (min-width:1281px) { .main{object-fit: cover;width: 100%;height: 698px;}/* hi-res laptops and desktops */ }
+	@media (min-width:961px)  { .main{object-fit: cover;width: 100%;height: 698px;} .size{ object-fit: cover;width: 100%;height: 400px; }  /* tablet, landscape iPad, lo-res laptops ands desktops */ }
+	@media (min-width:1025px) { .main{object-fit: cover;width: 100%;height: 698px;} .size{ object-fit: cover;width: 100%;height: 400px; }  /* big landscape tablets, laptops, and desktops */ }
+	@media (min-width:1281px) { .main{object-fit: cover;width: 100%;height: 698px;} .size{ object-fit: cover;width: 100%;height: 400px; }  /* hi-res laptops and desktops */ }
 	
 </style>
 
