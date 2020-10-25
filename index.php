@@ -131,7 +131,7 @@
 
 
 <div class="p-4" style="background-color:black;">
-	<p style="font-family: 'Roboto', sans-serif;color:white;font-size:36px;" class="text-center p-1">SOMETIMES IT TAKES THE WORST PAIN TO BRING ABOUT THE BEST CHANGE.</p>
+	<p style="font-family: 'Roboto', sans-serif;color:white;font-size:36px;" class="text-center p-1">STRIVE FOR PROGRESS.</p>
 </div>
 
 
