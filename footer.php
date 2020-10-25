@@ -20,7 +20,7 @@
           with this space, they can begin their new journey towards a new and healthier lifestyle that is filled with vitality.
           We believe that empowerment and self-confidence are both important motivators in maintaining a healthy and active lifestyle.
           Shape in provides all women with a safe space to feel beautiful, strong, and confident!</p>
-        <p><a  href="tel:+91 9739796989" target="_blank"><span style="color:white;" class="fa fa-phone m-4"></span></a> Sunil : +91 97397 96989</p>
+        <p><a  href="tel:+91 9739796989" target="_blank"><span style="color:white;" class="fa fa-phone mr-2"></span></a> Sunil : +91 97397 96989</p>
       </div>
       <!-- Grid column -->
 
