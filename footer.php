@@ -15,6 +15,9 @@
         <!-- Content -->
         <h5 class="text-uppercase">Shape in</h5>
         <p>Women's Fitness Gym</p>
+        <p>Shape in is a popular space for many female members as they feel that they can workout confidently 
+          and accomplish their goals. We believe that exercising should feel natural and by providing women 
+          with this space, they can begin their new journey towards a new and healthier lifestyle that is filled with vitality</p>
 
       </div>
       <!-- Grid column -->
