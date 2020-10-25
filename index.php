@@ -83,7 +83,7 @@
 	<? $c=0; for($i=0;$i<2;$i++) { ?>
 	<div class="row">
 		<? for($j=0;$j<3;$j++) { ?>
-		<div class="col-md-4">
+		<div class="col-md-4 mt-4 mb-4">
 			<figure class="snip1529">
 				<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/pr-sample13.jpg" alt="pr-sample13" />
 				<!--<div class="date"><span class="day">28</span><span class="month">Apr</span></div>-->
