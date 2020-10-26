@@ -111,7 +111,7 @@ $(function(){
 </div>
 	
 	
-	<!--<div class="m-2">
+	<div class="m-2">
 		<?php for($j=0;$j<$c;$j++) {  ?> 
 <div class="card mt-4 mb-4 ml-2 mr-2">
   <div class="card-body">
@@ -123,26 +123,9 @@ $(function(){
   </div>
 </div>
 		<? } ?>
-	</div>-->
+	</div>
 	
 
-<div class="container">
-	<?php for($j=0;$j<$c;$j++) {  ?> 
-	<div class="row">
-		<div class="col">
-			<div class="card border-dark mt-4 mb-4 text-center" style="margin-left:14%;margin-right:14%;">
-  				<div class="card-body p-5">
-   					<p class="card-text m-2"><h5>Name : </h5><?=$namedisplay[$j]?></p>
-     <p class="card-text m-2"><h5>contact : </h5><?=$contactdisplay[$j]?></p>
-    <p class="card-text m-2"><h5>Email : </h5><?=$emaildisplay[$j]?></p>
-    <p class="card-text m-2"><h5>Message : </h5><?=$messagedisplay[$j]?></p>
-    <p class="card-text m-2"><small class="text-muted"><?=$timedisplay[$j]?></small></p>
-  				</div>
-			</div>
-		</div>
-	</div>
-	<? } ?>
-</div>
 
    <!--<div class='m-2'>
        <table class='table '>
