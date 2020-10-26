@@ -195,7 +195,7 @@
 	if($success==1)
 	{
 		echo '<div class="mt-4 mr-4 ml-4"><div class="alert alert-success text-center">
-  			<strong>Success!</strong>Message sent successfully</div></div>';
+  			<strong>Message sent successfully</strong></div></div>';
 		$_SESSION['success']="";
 	}
 
