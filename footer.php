@@ -26,8 +26,7 @@ background-image: linear-gradient(315deg, #0cbaba 0%, #380036 74%);
       </div>
       <!-- Grid column -->
 
-      <hr class="clearfix w-100 d-md-none pb-3">
-
+      
       <!-- Grid column -->
       <div class="col-md-6 mb-md-0 mb-3 p-4">
 
