@@ -193,7 +193,7 @@ $(document).ready(function(){
  
         var formValues= $(this).serialize();
  
-        $.post("contact_us.php", formValues, function(data){
+        $.post("pages/contact_us.php", formValues, function(data){
             $("#result").html(data);
         });
     });
@@ -209,7 +209,7 @@ $(document).ready(function(){
 		<div class="col-md-6 mt-4 mb-4" id="contactus">
 			<div id="result"></div>
 			<p id="contactus" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-5 mb-2">CONTACT US</p>
-			<form onsubmit="disableButton()" class="p-3" method="POST" action="#" style="background-color: #f71735;background-image: linear-gradient(147deg, #f71735 0%, #db3445 74%);">
+			<form onsubmit="disableButton()" class="p-3" method="POST" action="pages/contact_us.php" style="background-color: #f71735;background-image: linear-gradient(147deg, #f71735 0%, #db3445 74%);">
      				<div class="form-group">
         				<label for="inputname">Name</label>
         				<input type="text" class="form-control" id="inputname" placeholder="name" name="name" required>
