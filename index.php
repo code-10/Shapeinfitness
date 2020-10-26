@@ -191,10 +191,9 @@
 	if($success==1)
 	{
 		
-		echo '
-			<script>window.location.href = "http://shapefit.herokuapp.com/index.php#contactus";<script>
-		<div class="m-4"><div class="alert alert-success">
-  			<strong>Success!</strong>Message sent successfully</div></div>';	
+		echo '<div class="m-4"><div class="alert alert-success">
+  			<strong>Success!</strong>Message sent successfully</div></div>';
+		header("Location:#contactus");
 	}
 
 ?>
