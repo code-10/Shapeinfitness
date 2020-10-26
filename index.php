@@ -29,19 +29,19 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a style="color:black;" class="nav-link" href="#">Home</a>
+        <a style="color:black;font-family: 'Roboto', sans-serif;" class="nav-link" href="#">Home</a>
       </li>
       <li class="nav-item">
-        <a style="color:black;" class="nav-link" href="#services">Services</a>
+        <a style="color:black;font-family: 'Roboto', sans-serif;" class="nav-link" href="#services">Services</a>
       </li>
       <li class="nav-item">
-        <a style="color:black;" class="nav-link" href="#gallery">Gallery</a>
+        <a style="color:black;font-family: 'Roboto', sans-serif;" class="nav-link" href="#gallery">Gallery</a>
       </li>
       <li class="nav-item">
-        <a style="color:black;" class="nav-link" href="#contactus">Contact Us</a>
+        <a style="color:black;font-family: 'Roboto', sans-serif;" class="nav-link" href="#contactus">Contact Us</a>
       </li>
       <li class="nav-item">
-        <a style="color:black;" class="nav-link" href="#location">Location</a>
+        <a style="color:black;font-family: 'Roboto', sans-serif;" class="nav-link" href="#location">Location</a>
       </li>
     </ul>
   </div>
