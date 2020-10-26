@@ -52,7 +52,6 @@
 	
 <div class='jumbotron text-center'>
         <h1 class="display-4">SHAPE IN QUERIES</h1>
-    </div>
 
    <div class='m-2'>
        <table class='table '>
@@ -78,6 +77,7 @@
 	   <? } ?>
        </table>
    </div>
+</div>
 
           
    <? }
