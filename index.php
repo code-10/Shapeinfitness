@@ -185,25 +185,17 @@
 
 <!--verification-->
 
-<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-<script>
-$(document).ready(function(){
-    $("form").on("submit", function(event){
-        event.preventDefault();
- 
-        var formValues= $(this).serialize();
- 
-        $.post("pages/contact_us.php", formValues, function(data){
-            $("#result").html(data);
-        });
-    });
-});
-	
- var btn = document.getElementById('sent');
-        btn.disabled = false;
-        btn.innerText = 'Send';
-	
-</script>
+<?php
+
+	$success=$_GET['success'];
+	if($success==1)
+	{
+		echo '<div class="m-4"><div class="alert alert-success">
+  			<strong>Success!</strong>Message sent successfully</div></div>';	
+	}
+
+?>
+
 
 <!--veification end-->
 
@@ -212,7 +204,6 @@ $(document).ready(function(){
 <div class="m-4">
 	<div class="row mb-5 mt-5">
 		<div class="col-md-6 mt-4 mb-4" id="contactus">
-			<div id="result"></div>
 			<p id="contactus" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-5 mb-2">CONTACT US</p>
 			<form onsubmit="disableButton()" class="p-3" method="POST" action="pages/contact_us.php" style="background-color: #f71735;background-image: linear-gradient(147deg, #f71735 0%, #db3445 74%);">
      				<div class="form-group">
