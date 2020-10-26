@@ -96,8 +96,8 @@
       $res1=$con->query("update contactus set timesent='$cur' where email='$email'");
       
       $success=true;
-      
-      echo $sucess;
+      	
+      header("Location:index.php?success=".$success);
       
     } 
   
