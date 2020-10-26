@@ -11,7 +11,7 @@
 	<script src="static/gallery.js"></script>
 <!--css and js end-->
 
-<nav class="navbar navbar-expand-lg navbar-dark" style="background-color:#000000;">
+<nav class="navbar navbar-expand-lg navbar-dark" style="background-color:white;">
   <a class="navbar-brand" href="#">
     <!--<img src="assets/logo.png" width="80" height="80" alt="">-->
     <img src="assets/logo.webp" width="80" height="80" alt="">  
@@ -22,19 +22,19 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link" href="#">Home</a>
+        <a style="color:black;" class="nav-link" href="#">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#services">Services</a>
+        <a style="color:black;" class="nav-link" href="#services">Services</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#gallery">Gallery</a>
+        <a style="color:black;" class="nav-link" href="#gallery">Gallery</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#contactus">Contact Us</a>
+        <a style="color:black;" class="nav-link" href="#contactus">Contact Us</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#location">Location</a>
+        <a style="color:black;" class="nav-link" href="#location">Location</a>
       </li>
     </ul>
   </div>
