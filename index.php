@@ -75,6 +75,24 @@
 
 <p id="services" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-5 mb-2">OUR FACILITIES</p>
 
+<div class="container">
+	<? $c=0; for($i=0;$i<2;$i++) { ?>
+	<div class="row">
+		<? for($j=0;$j<3;$j++) { ?>
+		<div class="col-md-4 mt-4 mb-4">
+			<div class="card" style="width: 18rem;">
+  				<img class="card-img-top" src="assets/<?=$services[$c]?>.webp" alt="Card image cap">
+  				<div class="card-body">
+					<h5 class="card-title"><?=$services[$c]?></h5>
+    					<p class="card-text"><?=$services[$c]?></p>
+  				</div>
+			</div>
+		</div>
+		<? $c++; } ?>
+	</div>
+	<? } ?>
+</div>
+
 <!--facilities end-->
 
 
