@@ -220,7 +220,7 @@ $(document).ready(function(){
     				</div>
 				<div class="form-group">
         				<label for="inputnumber">Phone</label>
-        				<input type="Number" class="form-control" id="inputnumber" placeholder="number" name="number" required>
+        				<input type="Number" class="form-control" id="inputnumber" placeholder="number" name="contact" required>
    	 			</div>
 				<div class="form-group">
         				<label for="inputname">Message</label>
