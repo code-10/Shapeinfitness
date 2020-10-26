@@ -97,7 +97,7 @@
       
       $success=true;
       	
-      header("Location:index.php?success=".$success);
+      header("Location:../index.php?success=".$success);
       
     } 
   
