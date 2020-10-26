@@ -178,6 +178,9 @@
 <!--Gallery end-->
 
 
+<div class="m-2" id="voila">
+</div>
+
 
 
 <!--contact-->
@@ -191,7 +194,7 @@
 	$success=$_SESSION['success'];
 	if($success==1)
 	{
-		echo '<div id="voila" class="m-4"><div class="alert alert-success">
+		echo '<div class="mt-4 mr-4 ml-4"><div class="alert alert-success">
   			<strong>Success!</strong>Message sent successfully</div></div>';
 		$_SESSION['success']="";
 	}
@@ -206,7 +209,7 @@
 <div class="m-4">
 	<div class="row mb-5 mt-5">
 		<div class="col-md-6 mt-4 mb-4" id="contactus">
-			<p id="contactus" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-5 mb-2">CONTACT US</p>
+			<p id="contactus" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-4 mb-2">CONTACT US</p>
 			<form onsubmit="disableButton()" class="p-3" method="POST" action="pages/contact_us.php" style="background-color: #f71735;background-image: linear-gradient(147deg, #f71735 0%, #db3445 74%);">
      				<div class="form-group">
         				<label for="inputname">Name</label>
@@ -228,7 +231,7 @@
 			</form>
 		</div>
 		<div class="col-md-6 mt-4 mb-4" id="location">
-			<p id="location" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-5 mb-2">LOCATION</p>
+			<p id="location" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-4 mb-2">LOCATION</p>
 			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15548.576152625568!2d77.5934389!3d13.0264981!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xafffc1080f8f8457!2sSHAPE%20IN%20-%20Women&#39;s%20Fitness%20Gym%20and%20Group%20classes%20RT%20NAGAR!5e0!3m2!1sen!2sin!4v1603537909194!5m2!1sen!2sin" width="100%" height="507" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 		</div>
 	</div>
