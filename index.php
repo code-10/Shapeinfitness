@@ -198,6 +198,11 @@ $(document).ready(function(){
         });
     });
 });
+	
+ var btn = document.getElementById('sent');
+        btn.disabled = false;
+        btn.innerText = 'Send';
+	
 </script>
 
 <!--veification end-->
@@ -242,7 +247,7 @@ $(document).ready(function(){
     function disableButton() {
         var btn = document.getElementById('sent');
         btn.disabled = true;
-        btn.innerText = 'Sending...'
+        btn.innerText = 'Sending....';
     }
 </script>
 
