@@ -187,11 +187,12 @@
 
 <?php
 
-	$success=$_GET['success'];
+	$success=$_SESSION['success'];
 	if($success==1)
 	{
 		echo '<div class="m-4"><div class="alert alert-success">
   			<strong>Success!</strong>Message sent successfully</div></div>';
+		$_SESSION['success']="";
 	}
 
 ?>
