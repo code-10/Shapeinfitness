@@ -105,7 +105,7 @@
 		<? for($j=0;$j<3;$j++) { ?>
 		<div class="col-md-4 mt-4 mb-4">
 			<div class="card" style="width: 18rem;">
-  				<img class="card-img-top" src="assets/<?=$services[$c]?>.webp" alt="Card image cap">
+  				<img class="card-img-top size" src="assets/<?=$services[$c]?>.webp" alt="Card image cap">
   				<div class="card-body">
 					<h5 class="card-title"><?=$services[$c]?></h5>
     					<p class="card-text"><?=$services[$c]?></p>
