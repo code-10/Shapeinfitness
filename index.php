@@ -99,7 +99,7 @@
 		       but will improve endurance, stamina, balance, alignment and of course core strength.");
 ?>
 
-<div class="container">
+<!--<div class="container">
 	<? $c=0; for($i=0;$i<2;$i++) { ?>
 	<div class="row">
 		<? for($j=0;$j<3;$j++) { ?>
@@ -120,7 +120,7 @@
 		<? $c++; } ?>
 	</div>
 	<? } ?>
-</div>
+</div>-->
 
 <!--facilities end-->
 
