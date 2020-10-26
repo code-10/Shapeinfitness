@@ -238,6 +238,13 @@ $(document).ready(function(){
 
 <!--contact end-->
 
+<script>
+    function disableButton() {
+        var btn = document.getElementById('sent');
+        btn.disabled = true;
+        btn.innerText = 'Sending...'
+    }
+</script>
 
 <script>
 	
