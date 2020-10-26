@@ -7,7 +7,7 @@
 
 <?php include_once '../header.php'; ?>
 
-
+<body>
 
 <nav class="navbar sticky-top navbar-expand-lg navbar-dark" style="background-color:#000000;">
   <a class="navbar-brand" href="../index.php">Shapeinfitness</a>
@@ -133,6 +133,8 @@ $(function(){
 	   <? } ?>
        </table>
    </div>
+
+</body>
 
 
 <?php include_once '../footer.php'; ?>
