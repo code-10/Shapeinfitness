@@ -208,7 +208,6 @@ $(document).ready(function(){
 <!--veification end-->
 
 
-
 <div class="m-4">
 	<div class="row mb-5 mt-5">
 		<div class="col-md-6 mt-4 mb-4" id="contactus">
