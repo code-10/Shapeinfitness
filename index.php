@@ -247,6 +247,7 @@ $(document).ready(function(){
     function disableButton() {
         var btn = document.getElementById('sent');
         btn.disabled = true;
+	btn.style.padding = "1em 2em";
         btn.innerText = 'Sending....';
     }
 </script>
