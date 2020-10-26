@@ -1,5 +1,6 @@
 <?php 
 	include_once 'header.php';
+	session_start();
 ?>
 
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap" rel="stylesheet">
