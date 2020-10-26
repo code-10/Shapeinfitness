@@ -113,7 +113,11 @@ $(function(){
 	
 	<div class="m-2">
 		<?php for($j=0;$j<$c;$j++) {  ?> 
-<div class="card mt-4 mb-4 ml-2 mr-2">
+<div class="card border-dark mt-4 mb-4 ml-2 mr-2">
+	<div class="card-header">
+    		<a  href="tel:+91 <?=$contactdisplay[$j]?>" target="_blank"><span style="color:black;" class="fa fa-phone mr-2"></span></a>
+		<a href = "mailto:<?=$emaildisplay[$j]?>?subject = Greetings from Shape in - RT NAGAR" target="_blank"><span style="color:black;" class="fa fa-envelope m-4"></span></a>
+  	</div>
   <div class="card-body">
     <p class="card-text m-2"><strong>Name : </strong><?=$namedisplay[$j]?></p>
      <p class="card-text m-2"><strong>contact : </strong><?=$contactdisplay[$j]?></p>
