@@ -2,8 +2,7 @@
 
 <!-- Footer -->
 <footer class="page-footer font-small pt-4" style="background-color: #2a2a72;
-background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);";
-;color:white;">
+background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);color:white;">
 
   <!-- Footer Links -->
   <div class="container-fluid text-center text-md-left">
