@@ -75,54 +75,6 @@
 
 <p id="services" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-5 mb-2">OUR FACILITIES</p>
 
-<?php  
-	$services=Array("Fitness","Weight Loss","Tonning","Zumba","Yoga","Pilates");
-	$serviceinfo=Array("Fitness","Weight Loss","Tonning","Zumba","Yoga","Pilates");
-	$content=Array("Fitness increases your life expectancy, reduce your risk of diseases,
-			improve quality of health. Shape in provides extensive fitness classes
-			to keep your body and mind balanced.",
-		       "Shape in provides a weight loss program with a step by step guide 
-		       to lose weight in an effective way both by exercise and food. we believe in persistance
-		       to take you on this journey of weight loss.",
-		       "Toning your muscles reduces fat and body weight. A toned body provides 
-		       more strength, energy and flexibility, and can decrease the risk of developing certain diseases such 
-		       as diabetes and heart disease. Shape in Toning program which includes all the elements required 
-		   	to tone your body.",
-		       "Zumba is a dance based workout. The styles of dance include hip hop, samba, mambo, 
-		       salsa and more. If you love to swing your hips and groove to the beat – Zumba is a must try.
-		       Shape in Zumba classes allows you to stay fit by participating in a fun activity.",
-		       "A simple yoga practice can increase your levels of concentration, alleviate symptoms of anxiety,
-		       help you sleep better at time, and over time, regain flexibility.
-		       Shape in yoga classes are designed for all levels of abilities and experience union of body, mind and spirit.",
-		       "Pilates with strength training and high-energy music that will keep your heart pumping throughout.
-		       Expect an intense fast-paced, total body workout that will not only sculpt and tone long lean muscles,
-		       but will improve endurance, stamina, balance, alignment and of course core strength.");
-?>
-
-<!--<div class="container">
-	<? $c=0; for($i=0;$i<2;$i++) { ?>
-	<div class="row">
-		<? for($j=0;$j<3;$j++) { ?>
-		<div class="col-md-4 mt-4 mb-4">
-			<figure class="snip1529">
-				<img src="assets/<?=$services[$c]?>.webp" alt="pr-sample13" class="size" />
-				<!--<div class="date"><span class="day">28</span><span class="month">Apr</span></div>-->
-				<figcaption>
-					<h3 class="text-center"><?=$services[$c]?></h3>
-					<p><?=$serviceinfo[$c]?></p>
-				</figcaption>
-				<div class="hover">
-					<p style="font-family: 'Roboto', sans-serif;color:black;font-size:22px;" class="p-4"><?=$content[$c]?><p>
-				</div>
-				<!--<a href="#"></a>-->
-			</figure>
-		</div>
-		<? $c++; } ?>
-	</div>
-	<? } ?>
-</div>-->
-
-<!--facilities end-->
 
 
 
