@@ -102,7 +102,7 @@
       
       $_SESSION['success']=true;
       	
-      header("Location:../index.php#contactus");
+      header("Location:../index.php#voila");
       
     } 
   
