@@ -119,7 +119,7 @@ $(function(){
      <p class="card-text m-2"><h5>contact : </h5><?=$contactdisplay[$j]?></p>
     <p class="card-text m-2"><h5>Email : </h5><?=$emaildisplay[$j]?></p>
     <p class="card-text m-2"><h5>Message : </h5><?=$messagedisplay[$j]?></p>
-    <p class="card-text m-2">Time : <small class="text-muted"><?=$timedisplay[$j]?></small></p>
+    <p class="card-text m-2"><small class="text-muted"><?=$timedisplay[$j]?></small></p>
   </div>
 </div>
 		<? } ?>
