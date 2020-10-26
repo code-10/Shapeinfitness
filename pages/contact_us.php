@@ -115,11 +115,11 @@ $(function(){
 		<?php for($j=0;$j<$c;$j++) {  ?> 
 <div class="card">
   <div class="card-body">
-    <h5 class="card-title m-2">Name : <?=$namedisplay[$j]?></h5>
-     <p class="card-title m-2"><h5>contact : <h5><?=$contactdisplay[$j]?></p>
-    <p class="card-title m-2"><h5>Email : <h5><?=$emaildisplay[$j]?></p>
-    <p class="card-title m-2"><h5>Message : <h5><?=$messagedisplay[$j]?></p>
-    <p class="card-title m-2">Time :<small class="text-muted"><?=$timedisplay[$j]?></small></p>
+    <h5 class="card-text m-2">Name : <?=$namedisplay[$j]?></h5>
+     <p class="card-text m-2"><h5>contact : <h5><?=$contactdisplay[$j]?></p>
+    <p class="card-text m-2"><h5>Email : <h5><?=$emaildisplay[$j]?></p>
+    <p class="card-text m-2"><h5>Message : <h5><?=$messagedisplay[$j]?></p>
+    <p class="card-text m-2">Time :<small class="text-muted"><?=$timedisplay[$j]?></small></p>
   </div>
 </div>
 		<? } ?>
