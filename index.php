@@ -194,7 +194,7 @@
 	$success=$_SESSION['success'];
 	if($success==1)
 	{
-		echo '<div class="mt-4 mr-4 ml-4"><div class="alert alert-success">
+		echo '<div class="mt-4 mr-4 ml-4"><div class="alert alert-success text-center">
   			<strong>Success!</strong>Message sent successfully</div></div>';
 		$_SESSION['success']="";
 	}
@@ -207,7 +207,7 @@
 
 
 <div class="m-4">
-	<div class="row mb-5 mt-5">
+	<div class="row mb-5">
 		<div class="col-md-6 mt-4 mb-4" id="contactus">
 			<p id="contactus" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-4 mb-2">CONTACT US</p>
 			<form onsubmit="disableButton()" class="p-3" method="POST" action="pages/contact_us.php" style="background-color: #f71735;background-image: linear-gradient(147deg, #f71735 0%, #db3445 74%);">
