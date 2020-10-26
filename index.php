@@ -104,8 +104,8 @@
 	<div class="row">
 		<? for($j=0;$j<3;$j++) { ?>
 		<div class="col-md-4 mt-4 mb-4">
-			<div class="card" style="width: 18rem;">
-  				<img class="card-img-top size" src="assets/<?=$services[$c]?>.webp" alt="Card image cap">
+			<div class="card">
+  				<img class="card-img-top size" src="assets/<?=$services[$c]?>.webp" alt="Shape in fitness">
   				<div class="card-body">
 					<h5 class="card-title"><?=$services[$c]?></h5>
     					<p class="card-text"><?=$services[$c]?></p>
