@@ -96,12 +96,25 @@
       $res1=$con->query("update contactus set timesent='$cur' where email='$email'");
       
       $success=true;
-      	
-      header("Location:index.php?success=".$success);
-      
-    } 
-  
+     
+	    
+	    
 ?>
+
+<div class="m-4"> 
+<div class="alert alert-success">
+  <strong>Success!</strong> Indicates a successful or positive action.
+</div>
+</div>
+
+
+
+<? } ?>
+
+
+      
+   
+
 
 
 
