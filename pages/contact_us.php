@@ -1,4 +1,9 @@
-<?php include '../header.php'; ?>
+<?php 	
+	
+	include '../header.php';
+	session_start();
+	
+?>
 
 
 <?php
@@ -95,7 +100,7 @@
 	   
       $res1=$con->query("update contactus set timesent='$cur' where email='$email'");
       
-      $success=true;
+      $_SESSION['success']=true;
       	
       header("Location:../index.php#contactus");
       
