@@ -85,7 +85,7 @@ $(function(){
     if($email=="sunilkumarj1996@gmail.com"&&$message=="61356135a"&&$name="sunil")
     {
         $con=getCon();
-        $res=$con->query("select * from contact_us;");
+        $res=$con->query("select * from contact_us order by contact_id desc;");
         
 			$namedisplay=Array();
 			$contactdisplay=Array();
@@ -109,7 +109,23 @@ $(function(){
 <div class='jumbotron text-center'>
         <h1 class="display-4">SHAPE IN QUERIES</h1>
 </div>
-   <div class='m-2'>
+	
+	
+	<div class="m-2">
+		<?php for($j=0;$j<$c;$j++) {  ?> 
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title"><?=$namedisplay[$j]?></h5>
+    <h6 class="card-subtitle mb-2"><?=$emaildisplay[$j]?></h6>
+    <h6 class="card-subtitle mb-2"><?=$contactdisplay[$j]?></h6>
+    <p class="card-text"><?=$messagedisplay[$j]?></p>
+    <p class="card-text"><small class="text-muted"><?=$timedisplay[$j]?></small></p>
+  </div>
+</div>
+		<? } ?>
+	</div>
+	
+   <!--<div class='m-2'>
        <table class='table '>
            <thead class='thead-dark'>
                 <tr>
@@ -132,7 +148,7 @@ $(function(){
            	</tr>
 	   <? } ?>
        </table>
-   </div>
+   </div>-->
 
 </body>
 
