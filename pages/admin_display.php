@@ -118,9 +118,7 @@ $con=getCon();
 		<? } ?>
 	</div>
   
-  
-  
-  <? } ?>
+ 
   
   
   <? include_once '../footer.php'; ?>
