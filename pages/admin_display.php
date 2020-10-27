@@ -106,7 +106,7 @@ $con=getCon();
 
 <div class='jumbotron text-center'>
         <h1 class="display-4">SHAPE IN QUERIES</h1>
-	<a href="refresh.php" id="refresh" class="btn btn-primary active" role="button" aria-pressed="true">Refresh</a>
+	<a href="refresh.php" id="refresh" class="btn btn-primary active m-4" role="button" aria-pressed="true">Refresh</a>
 </div>
 	
 	
