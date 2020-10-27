@@ -119,10 +119,10 @@ $con=getCon();
   	</div>
   <div class="card-body">
     <p class="card-text m-2 fonty"><strong>Name : </strong><?=$namedisplay[$j]?></p>
-     <p class="card-text m-2"><strong>contact : </strong><?=$contactdisplay[$j]?></p>
-    <p class="card-text m-2"><strong>Email : </strong><?=$emaildisplay[$j]?></p>
-    <p class="card-text m-2"><strong>Message : </strong><?=$messagedisplay[$j]?></p>
-    <p class="card-text m-2"><small class="text-muted"><?=$timedisplay[$j]?></small></p>
+     <p class="card-text m-2 fonty"><strong>contact : </strong><?=$contactdisplay[$j]?></p>
+    <p class="card-text m-2 fonty"><strong>Email : </strong><?=$emaildisplay[$j]?></p>
+    <p class="card-text m-2 fonty"><strong>Message : </strong><?=$messagedisplay[$j]?></p>
+    <p class="card-text m-2 fonty"><small class="text-muted"><?=$timedisplay[$j]?></small></p>
   </div>
 </div>
 		<? } ?>
