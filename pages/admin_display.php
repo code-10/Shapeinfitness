@@ -2,6 +2,15 @@
 	
 	include_once '../header.php';
 	session_start();
+
+	$isadmin=$_SESSION['toor'];
+	if(!$isadmin)
+	{
+		$_SESSION['success']=true;
+      	
+      		header("Location:../index.php#voila");	
+	}
+	
 	
 ?>
 
