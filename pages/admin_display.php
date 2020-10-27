@@ -97,6 +97,7 @@ $con=getCon();
 
 <div class='jumbotron text-center'>
         <h1 class="display-4">SHAPE IN QUERIES</h1>
+	<a href="refresh.php" id="refresh" class="btn btn-primary active" role="button" aria-pressed="true">Refresh</a>
 </div>
 	
 	
@@ -108,7 +109,7 @@ $con=getCon();
 		<a class="m-2" href = "mailto:<?=$emaildisplay[$j]?>?subject = Greetings from Shape in - RT NAGAR" target="_blank"><span style="color:black;" class="fa fa-envelope m-4"></span></a>
   	</div>
   <div class="card-body">
-    <p class="card-text m-2"><strong>Name : </strong><?=$namedisplay[$j]?></p>
+    <p class="card-text m-2 fonty"><strong>Name : </strong><?=$namedisplay[$j]?></p>
      <p class="card-text m-2"><strong>contact : </strong><?=$contactdisplay[$j]?></p>
     <p class="card-text m-2"><strong>Email : </strong><?=$emaildisplay[$j]?></p>
     <p class="card-text m-2"><strong>Message : </strong><?=$messagedisplay[$j]?></p>
@@ -118,10 +119,27 @@ $con=getCon();
 		<? } ?>
 	</div>
   
- 
+	
+	
+	
+ <!--sending-->
+	
+<script>
+    function disableButton() {
+        var btn = document.getElementById('refresh');
+        btn.disabled = true;
+	btn.style.padding = "1em 2em";
+        btn.innerText = 'Refreshing....';
+    }
+</script>
+	
+	
+<!--sending end-->
   
-  
-  <? include_once '../footer.php'; ?>
+
+	
+	
+<? include_once '../footer.php'; ?>
   
   
 <style>
