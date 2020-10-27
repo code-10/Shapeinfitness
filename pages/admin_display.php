@@ -106,7 +106,9 @@ $con=getCon();
 
 <div class='jumbotron text-center'>
         <h1 class="display-4">SHAPE IN QUERIES</h1>
-	<a href="refresh.php" onsubmit="disableButton()" id="refresh" class="btn btn-primary active m-4" role="button" aria-pressed="true">Refresh</a>
+	<form onsubmit="disableButton()" action="refresh.php" method="POST">
+		<button type="submit" name="check" id="refresh" class="btn btn-dark" style="background-color:black;">Refresh</button>
+	</form>
 </div>
 	
 	
