@@ -1,8 +1,8 @@
 <?php include_once 'header.php'; ?>
 
 <!-- Footer -->
-<footer class="page-footer font-small pt-4" style="background-color: #2a2a72;
-background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);color:white;">
+<footer class="page-footer font-small pt-4" style="background-color: #42378f;
+background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;">
 
   <!-- Footer Links -->
   <div class="container-fluid text-center text-md-left">
