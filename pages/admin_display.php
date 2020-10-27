@@ -107,7 +107,7 @@ $con=getCon();
 <div class='jumbotron text-center'>
         <h1 class="display-4">SHAPE IN QUERIES</h1>
 	<form onsubmit="disableButton()" action="refresh.php" method="POST">
-		<button type="submit" name="check" id="refresh" class="btn btn-dark" style="background-color:black;">Refresh</button>
+		<button type="submit" name="check" id="refresh" class="btn btn-dark" style="background-color:black;padding:0.5em 1em;">Refresh</button>
 	</form>
 </div>
 	
@@ -139,7 +139,7 @@ $con=getCon();
     function disableButton() {
         var btn = document.getElementById('refresh');
         btn.disabled = true;
-	btn.style.padding = "1em 2em";
+	btn.style.padding = "0.5em 1em";
         btn.innerText = 'Refreshing....';
     }
 </script>
