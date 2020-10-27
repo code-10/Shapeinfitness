@@ -34,6 +34,7 @@
     if($email=="sunilkumarj1996@gmail.com"&&$message=="61356135a"&&$name="sunil")
     {
         header("Location:admin_display.php");
+	$_SESSION['admin']=true;
 	    
     }
     else
