@@ -19,6 +19,7 @@
     }
     
     $empty="";
+    $con=getCon();
     $con->query("delete from contact_us where name='$empty' ");
     
     header("Location:admin_display.php");
