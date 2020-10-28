@@ -54,7 +54,7 @@
 <!--Main-->
 <div class="hero-image">
   <div class="hero-text">
-    <h1 class="animate__animated animate__fadeIn" style="font-family: 'Roboto', sans-serif;color:white;font-size:64px;animation-duration: 3s;">SHAPE IN</h1>
+    <h1 class="animate__animated animate__fadeIn" style="font-family: 'Roboto', sans-serif;color:white;font-size:64px;animation-duration: 2s;">SHAPE IN</h1>
     <p>Women's Fitness Gym</p>
     <a href="#services"><button class="btn draw-border" style="padding:1em;">Learn More</button></a>
   </div>
