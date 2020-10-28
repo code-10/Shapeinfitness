@@ -4,6 +4,7 @@
 ?>
 
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 
 <!--css and js-->
 	<link rel="stylesheet" href="static/card.css">
@@ -53,7 +54,7 @@
 <!--Main-->
 <div class="hero-image">
   <div class="hero-text">
-    <h1 style="font-family: 'Roboto', sans-serif;color:white;font-size:64px;">SHAPE IN</h1>
+    <h1 class="animate__animated animate__fadeIn" style="font-family: 'Roboto', sans-serif;color:white;font-size:64px;">SHAPE IN</h1>
     <p>Women's Fitness Gym</p>
     <a href="#services"><button class="btn draw-border" style="padding:1em;">Learn More</button></a>
   </div>
