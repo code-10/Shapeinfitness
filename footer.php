@@ -22,7 +22,7 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
           We believe that empowerment and self-confidence are both important motivators in maintaining a healthy and active lifestyle.
           Shape in provides all women with a safe space to feel beautiful, strong, and confident!</p>
         <p></a> Sunil Kumar (fitness counselor - Shape in)</p>
-        <p><a  href="tel:+91 9739796989" target="_blank"><span style="color:white;" class="fa fa-phone mr-2"></span> +91 97397 96989</p>
+        <p><a  href="tel:+91 9739796989" target="_blank"><span style="color:white;" class="fa fa-phone mr-2"></span></a> +91 97397 96989</p>
       </div>
       <!-- Grid column -->
 
