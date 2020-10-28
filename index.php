@@ -250,7 +250,7 @@
 
 <!--Scripts-->
 <script>
-	document.querySelectorAll('a[href^="#services"]').forEach(anchor => {
+	document.querySelectorAll('a[href^="#learnmore"]').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
         e.preventDefault();
 
