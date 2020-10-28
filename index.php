@@ -57,7 +57,7 @@
   <div class="hero-text">
     <h1 class="animate__animated animate__fadeIn" style="font-family: 'Roboto', sans-serif;color:white;font-size:64px;animation-duration: 2s;">SHAPE IN</h1>
     <p>Women's Fitness Gym</p>
-    <a href="#services"><button class="btn draw-border" style="padding:1em;">Learn More</button></a>
+    <a href="#learnmore"><button class="btn draw-border" style="padding:1em;">Learn More</button></a>
   </div>
 </div>
 <!--main end-->
@@ -107,6 +107,7 @@
 		       but will improve endurance, stamina, balance, alignment and of course core strength.");
 ?>
 
+<p id="learnmore"></p>
 <p id="services" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-5 mb-2">OUR FACILITIES</p>
 
 <div class="container">
