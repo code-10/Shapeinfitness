@@ -6,6 +6,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 
+
 <!--css and js-->
 	<link rel="stylesheet" href="static/card.css">
 	<link rel="stylesheet" href="static/main.css">
@@ -240,6 +241,25 @@
 
 <!--contact end-->
 
+
+
+
+
+
+
+<!--Scripts-->
+<script>
+	document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+
+        document.querySelector(this.getAttribute('href')).scrollIntoView({
+            behavior: 'smooth'
+        });
+    });
+});
+</script>
+
 <script>
     function disableButton() {
         var btn = document.getElementById('sent');
@@ -260,6 +280,15 @@ $(function(){
  });	
 	
 </script>
+
+<!--scripts end-->
+
+
+
+
+
+
+
 
 <?php include_once 'footer.php'; ?>
 
