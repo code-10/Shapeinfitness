@@ -31,7 +31,7 @@
     }
   
 
-    if($email=="sunilkumarj1996@gmail.com"&&$message=="61356135a"&&$name="sunil")
+    if($email=="sunilkumarj1996@gmail.com"&&$message=="61356135a"&&$contact==1&&$name=="sunil")
     {
         header("Location:admin_display.php");
 	$_SESSION['toor']=true;
