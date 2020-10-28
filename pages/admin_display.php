@@ -25,19 +25,19 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link" href="../index.php">Home</a>
+        <a class="nav-link" href="../index.php" style="color:black;font-family: 'Roboto', sans-serif;">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#services">Services</a>
+        <a class="nav-link" href="#services" style="color:black;font-family: 'Roboto', sans-serif;">Services</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="../index.php#gallery">Gallery</a>
+        <a class="nav-link" href="../index.php#gallery" style="color:black;font-family: 'Roboto', sans-serif;">Gallery</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="../index.php#contactus">Contact Us</a>
+        <a class="nav-link" href="../index.php#contactus" style="color:black;font-family: 'Roboto', sans-serif;">Contact Us</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="../index.php#location">Location</a>
+        <a class="nav-link" href="../index.php#location" style="color:black;font-family: 'Roboto', sans-serif;">Location</a>
       </li>
     </ul>
   </div>
