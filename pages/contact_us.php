@@ -45,13 +45,8 @@
       $con=getCon();
 	    
 	    
-      //$date = date_default_timezone_set('Asia/Kolkata');
-      //$cur = date("Y-m-d H:i:s");
-	
-      $cur = new DateTime('2012-11-04 05:04:00', new DateTimeZone('GMT'));
-	$cur->setTimezone(new DateTimeZone('IST'));
-
-	$cur->format('Y-m-d H:i:s');
+      $date = date_default_timezone_set('Asia/Kolkata');
+      $cur = date("Y-m-d H:i:s");
 	    
       $res=$con->query("insert into contact_us(name,email,message,contact) values('$name','$email','$message','$contact')");	
 	   
