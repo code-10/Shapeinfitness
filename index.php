@@ -249,7 +249,7 @@
 
 <!--Scripts-->
 <script>
-	document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+	document.querySelectorAll('a[href^="#services"]').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
         e.preventDefault();
 
