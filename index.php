@@ -41,6 +41,9 @@
         <a style="color:black;font-family: 'Roboto', sans-serif;" class="nav-link" href="#gallery">Gallery</a>
       </li>
       <li class="nav-item">
+        <a style="color:black;font-family: 'Roboto', sans-serif;" class="nav-link" href="#testimonial">Testimonial</a>
+      </li>
+      <li class="nav-item">
         <a style="color:black;font-family: 'Roboto', sans-serif;" class="nav-link" href="#contactus">Contact Us</a>
       </li>
       <li class="nav-item">
@@ -211,6 +214,9 @@
 
 
 <!--testimonial-->
+
+<p id="testimonial"></p>
+<p id="services" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-5 mb-2">TESTIMONIAL</p>
 
 <div class="mt-5 mb-5">
 	<div class="test-image">
