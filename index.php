@@ -11,7 +11,9 @@
 	<link rel="stylesheet" href="static/card.css">
 	<link rel="stylesheet" href="static/main.css">
 	<link rel="stylesheet" href="static/gallery.css">
+	<link rel="stylesheet" href="static/testimonial.css">
 	<script src="static/gallery.js"></script>
+	<script src="static/testimonial.js"></script>
 <!--css and js end-->
 
 <!--<nav class="navbar navbar-expand-lg navbar-dark" style="background-color:white;">
@@ -212,7 +214,7 @@
 
 <!--testimonial-->
 
-
+<div class="test">
 <div class="onboard">
   <h1><strong>Testimonials</strong></h1>
   <div class="slider">
@@ -252,7 +254,7 @@
     </div>
   </div>
 </div>
-
+</div>
 
 
 
