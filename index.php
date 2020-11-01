@@ -155,11 +155,39 @@
 
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
-	  <?php for($i=0;$i<11;$i++) { ?>
-    <div class="carousel-item">
-      <img class="d-block w-100 main" src="assets/gallery/gallery_<?=$i+1?>.jpg" alt="First slide">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="assets/gallery/gallery_1.jpg" alt="First slide">
     </div>
-	  <? } ?>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="assets/gallery/gallery_2.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="assets/gallery/gallery_3.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="assets/gallery/gallery_4.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="assets/gallery/gallery_5.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="assets/gallery/gallery_6.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="assets/gallery/gallery_7.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="assets/gallery/gallery_8.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="assets/gallery/gallery_9.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="assets/gallery/gallery_10.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="assets/gallery/gallery_11.jpg" alt="Second slide">
+    </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
