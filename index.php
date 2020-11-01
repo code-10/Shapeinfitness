@@ -207,6 +207,64 @@
 
 
 
+
+
+
+<!--testimonial-->
+
+
+<div class="onboard">
+  <h1><strong>Testimonials</strong></h1>
+  <div class="slider">
+    <div class="item">
+      <div class="ico">
+        
+      </div>
+      <div class="tit">
+        100 different days
+      </div>
+      <div class="text">
+        Every day we'll send you a element to design, except the weekends since you should go enjoy the outdoors 
+      </div>
+    </div>
+    <div class="item">
+      <div class="ico">
+ 
+      </div>
+      <div class="tit">
+        Become better
+      </div>
+      <div class="text">
+        Improve your skills as a designer interpreting how to design different user interface elements for mobile and web.
+      </div>
+    </div>
+    <div class="item">
+      <div class="ico">
+        
+      </div>
+      <div class="tit">
+        Share your design
+      </div>
+      <div class="text">
+        Get feedback in real time from others and improve your design skills getting better day after day
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+
+
+
+
+<!--testimonial end-->
+
+
+
+
+
+
+
 <!--contact-->
 
 
