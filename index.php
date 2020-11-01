@@ -212,11 +212,13 @@
 
 <!--testimonial-->
 
-<div class="test-image">
-  <div class="test-text">
-    <h1 style="font-size:50px">Name</h1>
-    <p>text</p>
-  </div>
+<div class="mt-5 mb-5">
+	<div class="test-image">
+  		<div class="test-text">
+    			<h1 style="font-size:50px">Name</h1>
+    			<p>text</p>
+  		</div>
+	</div>
 </div>
 
 <!--testimonial end-->
