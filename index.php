@@ -211,7 +211,12 @@
 
 <!--testimonial-->
 
-
+<div class="test-image">
+  <div class="test-text">
+    <h1 style="font-size:50px">Name</h1>
+    <p>text</p>
+  </div>
+</div>
 
 <!--testimonial end-->
 
