@@ -155,18 +155,11 @@
 
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
+	  <?php for($i=0;$i<11;$i++) { ?>
     <div class="carousel-item active">
-      <img class="d-block w-100 main" src="assets/main.webp" alt="First slide">
+      <img class="d-block w-100 main" src="assets/gallery/gallery_<?=$i+1?>.jpg" alt="First slide">
     </div>
-    <div class="carousel-item">
-      <img class="d-block w-100 main" src="assets/main.webp" alt="Second slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100 main" src="assets/main.webp" alt="Third slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100 main" src="assets/main.webp" alt="Fourth slide">
-    </div>
+	  <? } ?>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
