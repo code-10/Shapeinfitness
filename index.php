@@ -236,19 +236,19 @@
 			<p id="contactus" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-4 mb-2">CONTACT US</p>
 			<form onsubmit="disableButton()" class="p-3" method="POST" action="pages/contact_us.php" style="background-color: #f71735;background-image: linear-gradient(147deg, #f71735 0%, #db3445 74%);">
      				<div class="form-group">
-        				<label for="inputname">Name</label>
+        				<label for="inputname" style="color:black;font-family: 'Roboto', sans-serif;">Name</label>
         				<input type="text" class="form-control" id="inputname" placeholder="name" name="name" required>
    	 			</div>
    	 			<div class="form-group">
-        				<label for="inputEmail">Email</label>
+        				<label for="inputEmail" style="color:black;font-family: 'Roboto', sans-serif;">Email</label>
         				<input type="email" class="form-control" id="inputemail" placeholder="email" name="email" required>
     				</div>
 				<div class="form-group">
-        				<label for="inputnumber">Phone</label>
+        				<label for="inputnumber" style="color:black;font-family: 'Roboto', sans-serif;">Phone</label>
         				<input type="Number" class="form-control" id="inputnumber" placeholder="number" name="contact" required>
    	 			</div>
 				<div class="form-group">
-        				<label for="inputname">Message</label>
+        				<label for="inputname" style="color:black;font-family: 'Roboto', sans-serif;">Message</label>
         				<textarea rows="4" cols="200" type="text" class="form-control" id="inputmessage" placeholder="message" name="message" required></textarea>
    	 			</div>
 				<button type="submit" name="check" id="sent" class="btn btn-dark" style="background-color:black;">Send</button>
