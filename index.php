@@ -156,7 +156,7 @@
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
 	  <?php for($i=0;$i<11;$i++) { ?>
-    <div class="carousel-item active">
+    <div class="carousel-item">
       <img class="d-block w-100 main" src="assets/gallery/gallery_<?=$i+1?>.jpg" alt="First slide">
     </div>
 	  <? } ?>
