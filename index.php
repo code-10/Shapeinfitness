@@ -10,6 +10,7 @@
 <!--css and js-->
 	<link rel="stylesheet" href="static/main.css">
 	<link rel="stylesheet" href="static/gallery.css">
+	<link rel="stylesheet" href="static/testimonial.css">
 	<script src="static/gallery.js"></script>
 <!--css and js end-->
 
