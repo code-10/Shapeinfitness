@@ -8,7 +8,6 @@
 
 
 <!--css and js-->
-	<link rel="stylesheet" href="static/card.css">
 	<link rel="stylesheet" href="static/main.css">
 	<link rel="stylesheet" href="static/gallery.css">
 	<link rel="stylesheet" href="static/testimonial.css">
