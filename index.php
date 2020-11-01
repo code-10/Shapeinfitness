@@ -118,8 +118,8 @@
 			<div class="card">
   				<img class="card-img-top size" src="assets/<?=$services[$c]?>.webp" alt="Shape in fitness">
   				<div class="card-body">
-					<h5 class="card-title text-center"><?=$services[$c]?></h5>
-    					<p class="card-text text-center"><?=$services[$c]?></p>
+					<h5 class="card-title text-center animate__slideInLeft"><?=$services[$c]?></h5>
+    					<p class="card-text text-center animate__slideInLeft"><?=$services[$c]?></p>
   				</div>
 			</div>
 		</div>
