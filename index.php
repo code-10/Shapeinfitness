@@ -156,37 +156,37 @@
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block img-fluid size" src="assets/gallery/gallery_1.jpg" alt="First slide">
+      <img class="img-fluid" src="assets/gallery/gallery_1.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block img-fluid size" src="assets/gallery/gallery_2.jpg" alt="Second slide">
+      <img class="img-fluid" src="assets/gallery/gallery_2.jpg" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block img-fluid size" src="assets/gallery/gallery_3.jpg" alt="Third slide">
+      <img class="img-fluid" src="assets/gallery/gallery_3.jpg" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block img-fluid size" src="assets/gallery/gallery_4.jpg" alt="Fourth slide">
+      <img class="img-fluid" src="assets/gallery/gallery_4.jpg" alt="Fourth slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block img-fluid size" src="assets/gallery/gallery_5.jpg" alt="fifth slide">
+      <img class="img-fluid" src="assets/gallery/gallery_5.jpg" alt="fifth slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block img-fluid size" src="assets/gallery/gallery_6.jpg" alt="sixth slide">
+      <img class="img-fluid" src="assets/gallery/gallery_6.jpg" alt="sixth slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block img-fluid size" src="assets/gallery/gallery_7.jpg" alt="seventh slide">
+      <img class="img-fluid" src="assets/gallery/gallery_7.jpg" alt="seventh slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block img-fluid size" src="assets/gallery/gallery_8.jpg" alt="eight slide">
+      <img class="img-fluid" src="assets/gallery/gallery_8.jpg" alt="eight slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block img-fluid size" src="assets/gallery/gallery_9.jpg" alt="ninth slide">
+      <img class="img-fluid" src="assets/gallery/gallery_9.jpg" alt="ninth slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block img-fluid size" src="assets/gallery/gallery_10.jpg" alt="tenth slide">
+      <img class="img-fluid" src="assets/gallery/gallery_10.jpg" alt="tenth slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block img-fluid size" src="assets/gallery/gallery_11.jpg" alt="eleven slide">
+      <img class="img-fluid" src="assets/gallery/gallery_11.jpg" alt="eleven slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
