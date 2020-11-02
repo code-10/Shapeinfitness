@@ -16,17 +16,12 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
         <!-- Content -->
         <h5 class="text-uppercase">Shape in</h5>
         <p>Women's Fitness Gym</p>
-        <!--<p>Shape in is a popular space for many female members as they feel that they can workout confidently 
-          and accomplish their goals. We believe that exercising should feel natural and by providing women 
-          with this space, they can begin their new journey towards a new and healthier lifestyle that is filled with vitality.
-          We believe that empowerment and self-confidence are both important motivators in maintaining a healthy and active lifestyle.
-          Shape in provides all women with a safe space to feel beautiful, strong, and confident!</p>-->
-        <p style="font-family:'Montserrat',sans-serif;"><strong>Shape in</strong> is the most popular and the best fitness and Training Facility for women in Bengaluru. At <strong>Shape in</strong>  
+        <p style="font-family:'Montserrat',sans-serif;"><strong>SHAPE IN is the most popular and the best fitness and Training Facility for women in Bengaluru. At SHAPE IN 
           we provide a range of services including Weight loss, Toning, Zumba and Yoga.we offer professional instructions through effective, well-balanced and enjoyable workouts.
-          <strong>Shape in</strong> provides best in class certified Instructors with years of experience, who will keep you motivated to get fit and have fun at the same time
+          Shape in provides best in class certified Instructors with years of experience, who will keep you motivated to get fit and have fun at the same time
           Our goal is to make our facility a place you for you look forward to returning again. Our mission is to introduce health and fitness into every Women's life,
-          and empower them to build a well-structured body.</p>
-        </a> Sunil Kumar (fitness counselor - Shape in)</p>
+          and empower them to build a well-structured body.</strong></p>
+          Sunil Kumar - Fitness Counselor - SHAPE IN</p>
         <p><a  href="tel:+91 9739796989" target="_blank"><span style="color:white;" class="fa fa-phone mr-2"></span></a> +91 97397 96989</p>
       </div>
       <!-- Grid column -->
