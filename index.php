@@ -33,7 +33,7 @@
         <a style="color:black;" class="nav-link" href="#gallery"><strong>Gallery</strong></a>
       </li>
       <li class="nav-item">
-        <a style="color:black;" class="nav-link" href="#testimonial"><strong>Testimonial</strong></a>
+        <a style="color:black;" class="nav-link" href="#testimonial"><strong>Testimonials</strong></a>
       </li>
       <li class="nav-item">
         <a style="color:black;" class="nav-link" href="#contactus"><strong>Contact Us</strong></a>
