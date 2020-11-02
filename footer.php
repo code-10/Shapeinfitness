@@ -1,6 +1,7 @@
 <?php include_once 'header.php'; ?>
 
 <!-- Footer -->
+<div class="container">
 <footer class="page-footer font-small pt-4" style="background-color: #42378f;
 background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;">
 
@@ -57,3 +58,5 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
 
 </footer>
 <!-- Footer -->
+
+</div>
