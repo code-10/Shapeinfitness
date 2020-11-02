@@ -123,7 +123,7 @@ $con=getCon();
 		
 		<form onsubmit="disabledeleteButton()" action="delete_query.php" method="POST">
 			<input type="hidden" name="contact_id" value="<?php echo $contact_id[$j];?>" />
-			<button type="submit" name="delete" id="delete" class="btn btn-dark mt-2 mb-2" style="margin-left:400px;background-color:black;padding:0.5em 1em;">Delete</button>
+			<button type="submit" name="delete" id="delete" class="btn btn-dark mt-2 mb-2" style="background-color:black;padding:0.5em 1em;">Delete</button>
 		</form>
 		
   	</div>
