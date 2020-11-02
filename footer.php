@@ -44,8 +44,7 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
         <br><br>
         <p><a  href="#" target="_blank"><span style="color:white;" class="fa fa-address-card mr-2 mb-2"></span></a>#10, 2nd Floor, CBI Road, above Amma's Pasteries, HMT Layout, RT Nagar, Bengaluru, Karnataka 560032</p>
         <p class="mb-1"><a  href="tel:+91 9900350849" target="_blank"><span style="color:white;" class="fa fa-phone mr-2"></span></a>+91 9900350849 / 080 43027229</p>
-        <a href = "mailto:contactus@shapeinfitness.in?subject = Feedback for Shape in" target="_blank"><span style="color:white;" class="fa fa-envelope m-4"></span>contactus@shapeinfitness.in</a>
-      </div>
+        <p class="mb-1"><a  href = "mailto:contactus@shapeinfitness.in?subject = Feedback for Shape in" target="_blank"><span style="color:white;" class="fa fa-envelope mr-2"></span></a>contactus@shapeinfitness.in</p>
       <!-- Grid column -->
 
                  
@@ -55,13 +54,15 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
 
   </div>
   <!-- Footer Links -->
-
-   <!--made with love--> 
+    
+    <div class="footer-copyright text-center">
+     <!--made with love--> 
     <p class="footer-heart">
       Made with<span style="color:white;" class="fa fa-heart m-4"></span>by <a style="color:white;">ANT GROUND</a>
     </p>
   <!--made with love end-->  
-  
+  </div>
+
   <!-- Copyright -->
   <div class="footer-copyright text-center py-3">©2020 <a style="color:white" href="www.shapeinfitness.in">SHAPE IN</a>, All rights reserved.
   <!--<a href="#" style="color:white;">SHAPE IN</a>-->
