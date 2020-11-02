@@ -242,7 +242,8 @@
       <img src="assets/test.webp" class="test" alt="...">
       <div class="carousel-caption" style="bottom:80px;font-family:'Montserrat',sans-serif;">
         <h4>Anita</h4>
-        <p>SHAPE IN is an exceptional place for women to Workout.They provide many services like cardio, yoga and lots more.</p>
+        <p>SHAPE IN is an exceptional place for women to Workout.It's one of the best women fitness centre in Bengaluru among the ones I attended,
+		They provide many services like cardio, yoga and lots more.</p>
 	      
 	<!--start-->
 	
@@ -265,7 +266,8 @@
       <img src="assets/test.webp" class="test" alt="...">
       <div class="carousel-caption" style="bottom:80px;font-family:'Montserrat',sans-serif;">
         <h4>Kriti</h4>
-        <p>The environment in SHAPE IN provides you Motivation for a better workout with professional Trainers.</p>
+        <p>The environment in SHAPE IN provides you Motivation for a better workout. 
+		The ambience and Traning is exceptional. I would highly recommend SHAPE IN.</p>
 	 
 	<!--start-->
 	
