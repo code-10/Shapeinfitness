@@ -5,7 +5,6 @@
 
 
 
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 
 
@@ -25,22 +24,22 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a style="color:black;font-family: 'Roboto', sans-serif;" class="nav-link" href="#">Home</a>
+        <a style="color:black;" class="nav-link" href="#">Home</a>
       </li>
       <li class="nav-item">
-        <a style="color:black;font-family: 'Roboto', sans-serif;" class="nav-link" href="#services">Services</a>
+        <a style="color:black;" class="nav-link" href="#services">Services</a>
       </li>
       <li class="nav-item">
-        <a style="color:black;font-family: 'Roboto', sans-serif;" class="nav-link" href="#gallery">Gallery</a>
+        <a style="color:black;" class="nav-link" href="#gallery">Gallery</a>
       </li>
       <li class="nav-item">
-        <a style="color:black;font-family: 'Roboto', sans-serif;" class="nav-link" href="#testimonial">Testimonial</a>
+        <a style="color:black;" class="nav-link" href="#testimonial">Testimonial</a>
       </li>
       <li class="nav-item">
-        <a style="color:black;font-family: 'Roboto', sans-serif;" class="nav-link" href="#contactus">Contact Us</a>
+        <a style="color:black;" class="nav-link" href="#contactus">Contact Us</a>
       </li>
       <li class="nav-item">
-        <a style="color:black;font-family: 'Roboto', sans-serif;" class="nav-link" href="#location">Location</a>
+        <a style="color:black;" class="nav-link" href="#location">Location</a>
       </li>
     </ul>
   </div>
@@ -51,29 +50,12 @@
 <!--Main-->
 <div class="hero-image">
   <div class="hero-text">
-    <h1 class="animate__animated animate__fadeIn" style="font-family: 'Roboto', sans-serif;color:white;font-size:64px;animation-duration: 2s;">SHAPE IN</h1>
+    <h1 class="animate__animated animate__fadeIn" style="color:white;font-size:64px;animation-duration: 2s;">SHAPE IN</h1>
     <p>Women's Fitness Gym</p>
     <a href="#learnmore"><button class="btn draw-border" style="padding:1em;">Learn More</button></a>
   </div>
 </div>
 <!--main end-->
-
-
-
-<!--motivation-->
-
-
-
-<!--<div class="p-4" style="background-color:black;">
-	<p style="font-family: 'Roboto', sans-serif;color:white;font-size:36px;" class="text-center p-2">STAY FIT</p>
-	<hr style="background-color:white;width:48px;">
-	<p style="font-family: 'Roboto', sans-serif;color:white;font-size:36px;" class="text-center p-2">STAY HEALTHY</p>
-</div>-->
-
-
-<!--motivation end-->
-
-
 
 
 
@@ -100,7 +82,7 @@
 ?>
 
 <p id="learnmore"></p>
-<p id="services" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-5 mb-2">OUR FACILITIES</p>
+<p id="services" style="color:black;font-size:40px;" class="text-center mt-5 mb-2">OUR FACILITIES</p>
 
 <div class="container">
 	<? $c=0; for($i=0;$i<2;$i++) { ?>
@@ -131,7 +113,7 @@
 
 
 <div class="p-4" style="background-color:black;">
-	<p style="font-family: 'Roboto', sans-serif;color:white;font-size:36px;" class="text-center p-1">STRIVE FOR PROGRESS.</p>
+	<p style="color:white;font-size:36px;" class="text-center p-1">STRIVE FOR PROGRESS.</p>
 </div>
 
 
@@ -143,7 +125,7 @@
 <!--Gallery-->
 
 
-<p id="gallery" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-5 mb-2">GALLERY</p>
+<p id="gallery" style="color:black;font-size:40px;" class="text-center mt-5 mb-2">GALLERY</p>
 
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
@@ -197,7 +179,7 @@
 <!--testimonial-->
 
 <p id="testimonial"></p>
-<p id="services" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-5 mb-2">TESTIMONIALS</p>
+<p id="services" style="color:black;font-size:40px;" class="text-center mt-5 mb-2">TESTIMONIALS</p>
 
 <div id="carouselExampleCaptions" class="carousel slide carousel-fade" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -208,7 +190,7 @@
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="assets/test.webp" class="test" alt="...">
-      <div class="carousel-caption bot" style="font-family:'Montserrat',sans-serif;">
+      <div class="carousel-caption bot">
         <h4>Roopashree</h4>
         <p>SHAPE IN is an impressive fitness and training centre.
 	A well-equipped gym for an amazing workout for women,the instructors are extremely knowledgeable and awesome people to be around.</p>
@@ -232,7 +214,7 @@
     </div>
     <div class="carousel-item">
       <img src="assets/test.webp" class="test" alt="...">
-      <div class="carousel-caption bot" style="font-family:'Montserrat',sans-serif;">
+      <div class="carousel-caption bot">
         <h4>Anita</h4>
         <p>SHAPE IN is an exceptional place for women to Workout.It's one of the best women fitness centre in Bengaluru among the ones I attended,
 		They provide many services like cardio, yoga and lots more.</p>
@@ -256,7 +238,7 @@
     </div>
     <div class="carousel-item">
       <img src="assets/test.webp" class="test" alt="...">
-      <div class="carousel-caption bot" style="font-family:'Montserrat',sans-serif;">
+      <div class="carousel-caption bot">
         <h4>Kriti</h4>
         <p>The environment in SHAPE IN provides you Motivation for a better workout. 
 		The ambience and Traning is exceptional. I would highly recommend SHAPE IN.</p>
@@ -307,19 +289,19 @@
 			<p id="contactus" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-4 mb-2">CONTACT US</p>
 			<form onsubmit="disableButton()" class="p-3" method="POST" action="pages/contact_us.php" style="background-color: #f71735;background-image: linear-gradient(147deg, #f71735 0%, #db3445 74%);">
      				<div class="form-group">
-        				<label for="inputname" style="color:black;font-family: 'Roboto', sans-serif;">Name</label>
+        				<label for="inputname" style="color:black;">Name</label>
         				<input type="text" class="form-control" id="inputname" placeholder="name" name="name" required>
    	 			</div>
    	 			<div class="form-group">
-        				<label for="inputEmail" style="color:black;font-family: 'Roboto', sans-serif;">Email</label>
+        				<label for="inputEmail" style="color:black;">Email</label>
         				<input type="email" class="form-control" id="inputemail" placeholder="email" name="email" required>
     				</div>
 				<div class="form-group">
-        				<label for="inputnumber" style="color:black;font-family: 'Roboto', sans-serif;">Phone</label>
+        				<label for="inputnumber" style="color:black;">Phone</label>
         				<input type="Number" class="form-control" id="inputnumber" placeholder="number" name="contact" required>
    	 			</div>
 				<div class="form-group">
-        				<label for="inputname" style="color:black;font-family: 'Roboto', sans-serif;">Message</label>
+        				<label for="inputname" style="color:black;">Message</label>
         				<textarea rows="4" cols="200" type="text" class="form-control" id="inputmessage" placeholder="message" name="message" required></textarea>
    	 			</div>
 				<button type="submit" name="check" id="sent" class="btn btn-dark" style="background-color:black;">Send</button>
