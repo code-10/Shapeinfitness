@@ -225,7 +225,7 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <!--<img src="assets/main.webp" class="test" alt="...">-->
+      <img src="assets/test.jpg" class="test" alt="...">
       <div class="carousel-caption d-none d-md-block" style="bottom:120px;">
         <h5>First slide label</h5>
         <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
@@ -248,7 +248,7 @@
       </div>
     </div>
     <div class="carousel-item">
-      <!--<img src="assets/main.webp" class="test" alt="...">-->
+      <img src="assets/test.jpg" class="test" alt="...">
       <div class="carousel-caption d-none d-md-block" style="bottom:120px;">
         <h5>Second slide label</h5>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -271,7 +271,7 @@
       </div>
     </div>
     <div class="carousel-item">
-      <!--<img src="assets/main.webp" class="test" alt="...">-->
+      <img src="assets/test.jpg" class="test" alt="...">
       <div class="carousel-caption d-none d-md-block" style="bottom:120px;">
         <h5>Third slide label</h5>
         <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
