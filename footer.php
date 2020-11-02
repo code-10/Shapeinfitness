@@ -16,12 +16,14 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
         <!-- Content -->
         <h5 class="text-uppercase">Shape in</h5>
         <p>Women's Fitness Gym</p>
-        <p>Shape in is a popular space for many female members as they feel that they can workout confidently 
+        <!--<p>Shape in is a popular space for many female members as they feel that they can workout confidently 
           and accomplish their goals. We believe that exercising should feel natural and by providing women 
           with this space, they can begin their new journey towards a new and healthier lifestyle that is filled with vitality.
           We believe that empowerment and self-confidence are both important motivators in maintaining a healthy and active lifestyle.
-          Shape in provides all women with a safe space to feel beautiful, strong, and confident!</p>
-        <p></a> Sunil Kumar (fitness counselor - Shape in)</p>
+          Shape in provides all women with a safe space to feel beautiful, strong, and confident!</p>-->
+        <p>Shape in is the most popular and the best fitness and Training Facility in Bangalore,Shape in provides best in class training equipments and certified Trainers and staff
+        to provide best services to our customers.Come Explore Shape in fitness and be ready to be thrilled.</p>
+        </a> Sunil Kumar (fitness counselor - Shape in)</p>
         <p><a  href="tel:+91 9739796989" target="_blank"><span style="color:white;" class="fa fa-phone mr-2"></span></a> +91 97397 96989</p>
       </div>
       <!-- Grid column -->
