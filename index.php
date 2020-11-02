@@ -3,16 +3,6 @@
 	session_start();
 ?>
 
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
-
-
-<!--css and js-->
-	<link rel="stylesheet" href="static/main.css">
-	<link rel="stylesheet" href="static/gallery.css">
-	<script src="static/gallery.js"></script>
-<!--css and js end-->
-
 
 	    
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -405,6 +395,16 @@ $(function(){
 
 
 
+
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+
+
+<!--css and js-->
+	<link rel="stylesheet" href="static/main.css">
+	<link rel="stylesheet" href="static/gallery.css">
+	<script src="static/gallery.js"></script>
+<!--css and js end-->
 
 
 
