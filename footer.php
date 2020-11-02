@@ -16,12 +16,12 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
         <!-- Content -->
         <h5 class="text-uppercase">SHAPE IN - Women's Fitness Gym and Group classes RT NAGAR</h5>
         <p>Women's Fitness Gym</p>
-        <p><strong>SHAPE IN is the most popular and the best fitness and Training Facility for women in Bengaluru.
+        <p>SHAPE IN is the most popular and the best fitness and Training Facility for women in Bengaluru.
           At SHAPE IN we provide a range of services including Weight loss, Toning, Zumba, and Yoga. we offer professional instructions through effective, 
           well-balanced, and enjoyable workouts.SHAPE IN provides best in class certified Instructors with years of experience, who will keep you motivated 
           to get fit and have fun at the same time. Our goal is to make our facility a place you look forward to returning to. SHAPE IN is designed to provide 
           the best Training with flexible Timings. Our mission is to introduce health and fitness into every Women's life and empower them to build 
-          a well-structured and healthy lifestyle.</strong></p>
+          a well-structured and healthy lifestyle.</p>
         <!--<p class="mb-1"><a  href="tel:+91 9739796989" target="_blank"><span style="color:white;" class="fa fa-phone mr-2"></span></a>Sunil Kumar - Fitness Counselor</p>
         <p class="mb-1 ml-4">SHAPE IN</p>
         <p class="mb-1 ml-4">+91 9739796989</p>-->
