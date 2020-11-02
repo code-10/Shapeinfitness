@@ -55,15 +55,16 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
   </div>
   <!-- Footer Links -->
 
+   <!--made with love--> 
+    <p class="footer-heart">
+      Made with<span style="color:white;" class="fa fa-heart m-4"></span>by <a style="color:white;">ANT GROUND</a>
+    </p>
+  <!--made with love end-->  
+  
   <!-- Copyright -->
   <div class="footer-copyright text-center py-3">©2020 <a style="color:white" href="www.shapeinfitness.in">SHAPE IN</a>, All rights reserved.
   <!--<a href="#" style="color:white;">SHAPE IN</a>-->
   
-  <!--made with love--> 
-    <p class="footer-heart">
-      Made with<span style="color:white;" class="fa fa-heart m-2"></span>by <a style="color:white;">ANT GROUND</a>
-    </p>
-  <!--made with love end-->  
     
   </div>
   
