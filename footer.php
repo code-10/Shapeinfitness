@@ -56,8 +56,8 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
   <!-- Footer Links -->
 
   <!-- Copyright -->
-  <div class="footer-copyright text-center py-3">©Copyright:
-    <a href="#" style="color:white;">Shape in</a>
+  <div class="footer-copyright text-center py-3">©2020 <a href="www.shapeinfitness.in">SHAPE IN</a>, All rights reserved.
+  <!--<a href="#" style="color:white;">SHAPE IN</a>-->
   </div>
   <!-- Copyright -->
 
