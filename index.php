@@ -10,7 +10,6 @@
 <!--css and js-->
 	<link rel="stylesheet" href="static/main.css">
 	<link rel="stylesheet" href="static/gallery.css">
-	<link rel="stylesheet" href="static/testimonial.css">
 	<script src="static/gallery.js"></script>
 <!--css and js end-->
 
@@ -218,32 +217,8 @@
 <p id="testimonial"></p>
 <p id="services" style="font-family: 'Roboto', sans-serif;color:black;font-size:40px;" class="text-center mt-5 mb-2">TESTIMONIAL</p>
 
-<div class="mt-2 mb-2">
-	<div class="test-image">
-  		<div class="test-text">
-    			<h1 style="font-size:50px">Name</h1>
-    			<p>text</p>
-  		</div>
-	</div>
-</div>
 
-<div class="mt-2 mb-2">
-	<div class="test-image">
-  		<div class="test-text">
-    			<h1 style="font-size:50px">Name</h1>
-    			<p>text</p>
-  		</div>
-	</div>
-</div>
 
-<div class="mt-2 mb-2">
-	<div class="test-image">
-  		<div class="test-text">
-    			<h1 style="font-size:50px">Name</h1>
-    			<p>text</p>
-  		</div>
-	</div>
-</div>
 <!--testimonial end-->
 
 
