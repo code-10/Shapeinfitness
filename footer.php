@@ -40,7 +40,7 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
 
         <br><br>
         <p><a  href="www.shapeinfitness.in" target="_blank"><span style="color:white;" class="fa fa-address-card mr-2 mb-2"></span></a>#10, 2nd Floor, CBI Road, above Amma's Pasteries, HMT Layout, RT Nagar, Bengaluru, Karnataka 560032</p>
-        <p><a  href="tel:+91 9900350849" target="_blank"><span style="color:white;" class="fa fa-phone mr-2 mb-2"></span></a>SHAPE IN - Women's Fitness Gym and Group classes RT NAGAR</p>
+        <p><a  href="tel:+91 9900350849" target="_blank"><span style="color:white;" class="fa fa-phone mr-2"></span></a>SHAPE IN - Women's Fitness Gym and Group classes RT NAGAR</p>
         <p>+91 9900350849</p>
       </div>
       <!-- Grid column -->
