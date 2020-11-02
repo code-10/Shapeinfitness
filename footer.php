@@ -1,12 +1,11 @@
 <?php include_once 'header.php'; ?>
 
 <!-- Footer -->
-<div class="container">
 <footer class="page-footer font-small pt-4" style="background-color: #42378f;
 background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;">
 
   <!-- Footer Links -->
-  <div class="container-fluid text-center text-md-left">
+  <div class="container text-center text-md-left">
 
     <!-- Grid row -->
     <div class="row">
@@ -39,9 +38,9 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
         <a href="https://www.instagram.com/shape_in_rt_nagar?r=nametag" target="_blamk"><span style="color:white;" class="fa fa-instagram m-4"></span></a>
         <a href = "mailto:sunilkumarj1996@gmail.com?subject = Feedback for Shape in" target="_blank"><span style="color:white;" class="fa fa-envelope m-4"></span></a>
 
-        
+        <br><br>
         <i class="fa fa-address-card"></i><p>#10, 2nd Floor, CBI Road, above Amma's Pasteries, HMT Layout, RT Nagar, Bengaluru, Karnataka 560032</p>
-        <p><a  href="tel:+91 9900350849" target="_blank"><span style="color:white;" class="fa fa-phone mr-2"></span></a>SHAPE IN - Women's Fitness Gym and Group classes RT NAGAR</p>
+        <p><a  href="tel:+91 9900350849" target="_blank"><span style="color:white;" class="fa fa-phone mr-2"></span></a>SHAPE IN - Women's Fitness Gym and Group classes RT NAGAR - +91 9900350849</p>
       </div>
       <!-- Grid column -->
 
@@ -62,4 +61,3 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
 </footer>
 <!-- Footer -->
 
-</div>
