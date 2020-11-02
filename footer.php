@@ -23,7 +23,7 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
           Shape in provides all women with a safe space to feel beautiful, strong, and confident!</p>-->
         <p><strong>Shape in</strong> is the most popular and the best fitness and Training Facility for women in Bengaluru. At <strong>Shape in</strong>  
           we provide a range of services including Weight loss, Toning, Zumba and Yoga.we offer professional instructions through effective, well-balanced and enjoyable workouts.
-          <strong>Shape in provides best in class certified Instructors with years of experience, who will keep you motivated to get fit and have fun at the same time</strong>
+          <strong>Shape in</strong> provides best in class certified Instructors with years of experience, who will keep you motivated to get fit and have fun at the same time
           Our goal is to make our facility a place you for you look forward to returning again. Our mission is to introduce health and fitness into every Women's life,
           and empower them to build a well-structured body.</p>
         </a> Sunil Kumar (fitness counselor - Shape in)</p>
