@@ -4,6 +4,18 @@
 ?>
 
 
+
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+
+
+<!--css and js-->
+	<link rel="stylesheet" href="static/main.css">
+	<link rel="stylesheet" href="static/gallery.css">
+	<script src="static/gallery.js"></script>
+<!--css and js end-->
+
+
 	    
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#"><img src="assets/logo.webp" width="80" height="80" alt=""></a>
@@ -103,7 +115,7 @@
   				<img class="card-img-top size" src="assets/<?=$services[$c]?>.webp" alt="Shape in fitness">
   				<div class="card-body">
 					<h5 class="card-title text-center animate__slideInLeft"><?=$services[$c]?></h5>
-    					<p class="card-text text-center animate__slideInLeft"><?=$services[$c]?></p>
+    					<p class="card-text text-center animate__slideInLeft"><?=$content[$c]?></p>
   				</div>
 			</div>
 		</div>
@@ -394,17 +406,6 @@ $(function(){
 <!--scripts end-->
 
 
-
-
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
-
-
-<!--css and js-->
-	<link rel="stylesheet" href="static/main.css">
-	<link rel="stylesheet" href="static/gallery.css">
-	<script src="static/gallery.js"></script>
-<!--css and js end-->
 
 
 
