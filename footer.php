@@ -57,7 +57,7 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
     
     <div class="footer-copyright text-center">
      <!--made with love--> 
-    <p class="footer-heart">
+    <p class="footer-heart m-1">
       Made with<span style="color:white;" class="fa fa-heart m-2"></span>by <a style="color:white;">ANT GROUND</a>
     </p>
   <!--made with love end-->  
