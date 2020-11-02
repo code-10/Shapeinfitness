@@ -216,7 +216,7 @@
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="assets/test.webp" class="test" alt="...">
-      <div class="carousel-caption" style="bottom:64px;font-family:'Montserrat',sans-serif;">
+      <div class="carousel-caption bot" style="font-family:'Montserrat',sans-serif;">
         <h4>Roopashree</h4>
         <p>SHAPE IN is an impressive fitness and training centre.
 	A well-equipped gym for an amazing workout for women,the instructors are extremely knowledgeable and awesome people to be around.</p>
@@ -240,7 +240,7 @@
     </div>
     <div class="carousel-item">
       <img src="assets/test.webp" class="test" alt="...">
-      <div class="carousel-caption" style="bottom:64px;font-family:'Montserrat',sans-serif;">
+      <div class="carousel-caption bot" style="font-family:'Montserrat',sans-serif;">
         <h4>Anita</h4>
         <p>SHAPE IN is an exceptional place for women to Workout.It's one of the best women fitness centre in Bengaluru among the ones I attended,
 		They provide many services like cardio, yoga and lots more.</p>
@@ -264,7 +264,7 @@
     </div>
     <div class="carousel-item">
       <img src="assets/test.webp" class="test" alt="...">
-      <div class="carousel-caption" style="bottom:64px;font-family:'Montserrat',sans-serif;">
+      <div class="carousel-caption bot" style="font-family:'Montserrat',sans-serif;">
         <h4>Kriti</h4>
         <p>The environment in SHAPE IN provides you Motivation for a better workout. 
 		The ambience and Traning is exceptional. I would highly recommend SHAPE IN.</p>
@@ -418,9 +418,9 @@ $(function(){
 	@media (min-width:320px)  {  .mars{ margin:10px; }  .size{ object-fit: cover;width: 100%;height: 472px; } .test{ object-fit: cover;width: 100%;height: 300px; } /* smartphones, iPhone, portrait 480x320 phones */ }
 	@media (min-width:481px)  {  .mars{ margin:10px; }  .size{ object-fit: cover;width: 100%;height: 472px; } .test{ object-fit: cover;width: 100%;height: 300px; } /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ }
  	@media (min-width:641px)  {  .mars{ margin:10px; }  .size{ object-fit: cover;width: 100%;height: 472px; } .test{ object-fit: cover;width: 100%;height: 300px; } /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ }
-	@media (min-width:961px)  { .main{object-fit: cover;width: 100%;height: 698px;}  .size{ object-fit: cover;width: 100%;height: 624px; } .test{ object-fit: cover;width: 100%;height: 300px; } /* tablet, landscape iPad, lo-res laptops ands desktops */ }
-	@media (min-width:1025px) { .main{object-fit: cover;width: 100%;height: 698px;}  .size{ object-fit: cover;width: 100%;height: 624px; }  .test{ object-fit: cover;width: 100%;height: 300px; }/* big landscape tablets, laptops, and desktops */ }
-	@media (min-width:1281px) { .main{object-fit: cover;width: 100%;height: 698px;}  .size{ object-fit: cover;width: 100%;height: 624px; }  .test{ object-fit: cover;width: 100%;height: 300px; }/* hi-res laptops and desktops */ }
+	@media (min-width:961px)  { .main{object-fit: cover;width: 100%;height: 698px;}  .bot{ bottom:80px; } .size{ object-fit: cover;width: 100%;height: 624px; } .test{ object-fit: cover;width: 100%;height: 300px; } /* tablet, landscape iPad, lo-res laptops ands desktops */ }
+	@media (min-width:1025px) { .main{object-fit: cover;width: 100%;height: 698px;}  .bot{ bottom:80px; } .size{ object-fit: cover;width: 100%;height: 624px; }  .test{ object-fit: cover;width: 100%;height: 300px; }/* big landscape tablets, laptops, and desktops */ }
+	@media (min-width:1281px) { .main{object-fit: cover;width: 100%;height: 698px;}  .bot{ bottom:80px; } .size{ object-fit: cover;width: 100%;height: 624px; }  .test{ object-fit: cover;width: 100%;height: 300px; }/* hi-res laptops and desktops */ }
 	
 </style>
 
