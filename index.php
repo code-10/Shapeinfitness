@@ -217,7 +217,7 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="assets/test.jpg" class="test" alt="...">
+      <img src="assets/test.webp" class="test" alt="...">
       <div class="carousel-caption" style="bottom:80px;font-family:'Montserrat',sans-serif;">
         <h4>Roopashree</h4>
         <p>A well-equipped gym for an amazing workout,the instructors are extremely knowledgeable and awesome people to be around.</p>
@@ -240,7 +240,7 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img src="assets/test.jpg" class="test" alt="...">
+      <img src="assets/test.webp" class="test" alt="...">
       <div class="carousel-caption" style="bottom:80px;font-family:'Montserrat',sans-serif;">
         <h4>Anita</h4>
         <p>A great place for women to Workout.They provide many services like cardio, yoga and lots more.</p>
@@ -263,7 +263,7 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img src="assets/test.jpg" class="test" alt="...">
+      <img src="assets/test.webp" class="test" alt="...">
       <div class="carousel-caption" style="bottom:80px;font-family:'Montserrat',sans-serif;">
         <h4>Kriti</h4>
         <p>The environment provides you Motivation for a better workout with professional Trainers.</p>
