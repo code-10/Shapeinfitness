@@ -24,8 +24,8 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
           a well-structured and healthy lifestyle.</strong></p>
           <p></p>
         <p class="mb-1"><a  href="tel:+91 9739796989" target="_blank"><span style="color:white;" class="fa fa-phone mr-2"></span></a>Sunil Kumar - Fitness Counselor</p>
-        <p class="mb-1">SHAPE IN</p>
-        <p class="mb-1">+91 9739796989</p>
+        <p class="mb-1 ml-2">SHAPE IN</p>
+        <p class="mb-1 ml-2">+91 9739796989</p>
       </div>
       <!-- Grid column -->
 
