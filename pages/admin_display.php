@@ -106,7 +106,7 @@ $con=getCon();
 
 <div class='jumbotron text-center'>
         <h1 class="display-4">SHAPE IN QUERIES</h1>
-	<form onsubmit="disableButton()" action="refresh.php" method="POST">
+	<form onsubmit="disablerefreshButton()" action="refresh.php" method="POST">
 		<button type="submit" name="check" id="refresh" class="btn btn-dark m-4" style="background-color:black;padding:0.5em 1em;">Refresh</button>
 	</form>
 </div>
@@ -119,8 +119,8 @@ $con=getCon();
     		<a class="m-2" href = "tel:+91 <?=$contactdisplay[$j]?>" target="_blank"><span style="color:black;" class="fa fa-phone mr-2"></span></a>
 		<a class="m-2" href = "mailto:<?=$emaildisplay[$j]?>?subject = Greetings from Shape in - RT NAGAR" target="_blank"><span style="color:black;" class="fa fa-envelope m-4"></span></a>
 		
-		<form onsubmit="disableButton()" action="delete_query.php" method="POST">
-			<button type="submit" class="fa fa-phone" style="margin-left:100px;" name="deletequery"></button>
+		<form onsubmit="disabledeleteButton()" action="delete_query.php" method="POST">
+			<button type="submit" name="delete" id="delete" class="btn btn-dark m-4" style="background-color:black;padding:0.5em 1em;">Delete</button>
 		</form>
 		
   	</div>
@@ -141,11 +141,18 @@ $con=getCon();
  <!--sending-->
 	
 <script>
-    function disableButton() {
+    function disablerefreshButton() {
         var btn = document.getElementById('refresh');
         btn.disabled = true;
 	btn.style.padding = "0.5em 1em";
         btn.innerText = 'Refreshing....';
+    }
+	
+	function disabledeleteButton() {
+        var btn = document.getElementById('delete');
+        btn.disabled = true;
+	btn.style.padding = "0.5em 1em";
+        btn.innerText = 'Deleting....';
     }
 </script>
 	
