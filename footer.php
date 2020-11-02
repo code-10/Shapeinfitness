@@ -61,9 +61,8 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
   
   <!--made with love--> 
     <p class="footer-heart">
-  Made with <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">
-<img class="emoji mt-2" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"></g-emoji> by <a style="color:white;">ANT GROUND</a>
-</p>
+      Made with<span style="color:white;" class="fa fa-heart m-2"></span>by <a style="color:white;">ANT GROUND</a>
+    </p>
   <!--made with love end-->  
     
   </div>
