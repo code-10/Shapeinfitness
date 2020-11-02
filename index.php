@@ -82,25 +82,21 @@
 <?php  
 	$services=Array("Fitness","Weight Loss","Tonning","Zumba","Yoga","Pilates");
 	$serviceinfo=Array("Fitness","Weight Loss","Tonning","Zumba","Yoga","Pilates");
-	$content=Array("Fitness increases your life expectancy, reduce your risk of diseases,
-			improve quality of health. Shape in provides extensive fitness classes
-			to keep your body and mind balanced.",
-		       "Shape in provides a weight loss program with a step by step guide 
-		       to lose weight in an effective way both by exercise and food. we believe in persistance
-		       to take you on this journey of weight loss.",
-		       "Toning your muscles reduces fat and body weight. A toned body provides 
-		       more strength, energy and flexibility, and can decrease the risk of developing certain diseases such 
-		       as diabetes and heart disease. Shape in Toning program which includes all the elements required 
-		   	to tone your body.",
-		       "Zumba is a dance based workout. The styles of dance include hip hop, samba, mambo, 
-		       salsa and more. If you love to swing your hips and groove to the beat – Zumba is a must try.
-		       Shape in Zumba classes allows you to stay fit by participating in a fun activity.",
-		       "A simple yoga practice can increase your levels of concentration, alleviate symptoms of anxiety,
-		       help you sleep better at time, and over time, regain flexibility.
-		       Shape in yoga classes are designed for all levels of abilities and experience union of body, mind and spirit.",
-		       "Pilates with strength training and high-energy music that will keep your heart pumping throughout.
-		       Expect an intense fast-paced, total body workout that will not only sculpt and tone long lean muscles,
-		       but will improve endurance, stamina, balance, alignment and of course core strength.");
+	$content=Array("Fitness increases life expectancy, reduces your risk of diseases,
+			improve the quality of health. SHAPE IN provides extensive fitness training to
+			keep your body and mind balanced.",
+		       "Weight is a vital factor of any Women's body, SHAPE IN provides a weight loss program with a 
+		       step by step guide to effectively losing weight both by exercise and diet.",
+		       "Toning your muscles reduces fat and body weight. A toned body provides more strength, energy, 
+		       and flexibility, and can decrease the risk of developing certain diseases such as diabetes and heart disease.
+		       SHAPE IN Toning program includes a complete roadmap for a toned body.",
+		       "Zumba is a dance-based workout. If you love to swing your hips and groove to the beat – Zumba is a must-try. 
+		       SHAPE IN provides Zumba classes that allow you to stay fit by having a great time.",
+		       "A simple yoga practice can increase your levels of concentration, alleviate symptoms of anxiety. 
+		       SHAPE IN yoga classes is designed for a serene path to Yoga.",
+		       "SHAPE IN provides a Pilates program for strength training. Expect an intense fast-paced, total 
+		       body workout that will not only sculpt and tone long lean muscles but will improve endurance, stamina,
+		       balance, alignment, and of course core strength.");
 ?>
 
 <p id="learnmore"></p>
