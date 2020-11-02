@@ -24,22 +24,22 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a style="color:black;" class="nav-link" href="#">Home</a>
+	      <a style="color:black;" class="nav-link" href="#"><strong>Home</strong></a>
       </li>
       <li class="nav-item">
-        <a style="color:black;" class="nav-link" href="#services">Services</a>
+	      <a style="color:black;" class="nav-link" href="#services"><strong>Services</strong></a>
       </li>
       <li class="nav-item">
-        <a style="color:black;" class="nav-link" href="#gallery">Gallery</a>
+        <a style="color:black;" class="nav-link" href="#gallery"><strong>Gallery</strong></a>
       </li>
       <li class="nav-item">
-        <a style="color:black;" class="nav-link" href="#testimonial">Testimonial</a>
+        <a style="color:black;" class="nav-link" href="#testimonial"><strong>Testimonial</strong></a>
       </li>
       <li class="nav-item">
-        <a style="color:black;" class="nav-link" href="#contactus">Contact Us</a>
+        <a style="color:black;" class="nav-link" href="#contactus"><strong>Contact Us</strong></a>
       </li>
       <li class="nav-item">
-        <a style="color:black;" class="nav-link" href="#location">Location</a>
+        <a style="color:black;" class="nav-link" href="#location"><strong>Location</strong></a>
       </li>
     </ul>
   </div>
