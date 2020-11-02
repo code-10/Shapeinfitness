@@ -118,6 +118,11 @@ $con=getCon();
 	<div class="card-header">
     		<a class="m-2" href = "tel:+91 <?=$contactdisplay[$j]?>" target="_blank"><span style="color:black;" class="fa fa-phone mr-2"></span></a>
 		<a class="m-2" href = "mailto:<?=$emaildisplay[$j]?>?subject = Greetings from Shape in - RT NAGAR" target="_blank"><span style="color:black;" class="fa fa-envelope m-4"></span></a>
+		
+		<form onsubmit="disableButton()" action="refresh.php" method="POST">
+			<button type="submit"  class="fa fa-phone mr-2" name="deletequery"></button>
+		</form>
+		
   	</div>
   <div class="card-body">
     <p class="card-text m-2 fonty"><strong>Name : </strong><?=$namedisplay[$j]?></p>
