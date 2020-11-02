@@ -148,37 +148,37 @@
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="img-fluid size" src="assets/gallery/gallery_1.webp" alt="First slide">
+      <img class="img-fluid" src="assets/gallery/gallery_1.webp" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="img-fluid size" src="assets/gallery/gallery_2.webp" alt="Second slide">
+      <img class="img-fluid" src="assets/gallery/gallery_2.webp" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="img-fluid size" src="assets/gallery/gallery_3.webp" alt="Third slide">
+      <img class="img-fluid" src="assets/gallery/gallery_3.webp" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="img-fluid size" src="assets/gallery/gallery_4.webp" alt="Fourth slide">
+      <img class="img-fluid" src="assets/gallery/gallery_4.webp" alt="Fourth slide">
     </div>
     <div class="carousel-item">
-      <img class="img-fluid size" src="assets/gallery/gallery_5.webp" alt="fifth slide">
+      <img class="img-fluid" src="assets/gallery/gallery_5.webp" alt="fifth slide">
     </div>
     <div class="carousel-item">
-      <img class="img-fluid size" src="assets/gallery/gallery_6.webp" alt="sixth slide">
+      <img class="img-fluid" src="assets/gallery/gallery_6.webp" alt="sixth slide">
     </div>
     <div class="carousel-item">
-      <img class="img-fluid size" src="assets/gallery/gallery_7.webp" alt="seventh slide">
+      <img class="img-fluid" src="assets/gallery/gallery_7.webp" alt="seventh slide">
     </div>
     <div class="carousel-item">
-      <img class="img-fluid size" src="assets/gallery/gallery_8.webp" alt="eight slide">
+      <img class="img-fluid" src="assets/gallery/gallery_8.webp" alt="eight slide">
     </div>
     <div class="carousel-item">
-      <img class="img-fluid size" src="assets/gallery/gallery_9.webp" alt="ninth slide">
+      <img class="img-fluid" src="assets/gallery/gallery_9.webp" alt="ninth slide">
     </div>
     <div class="carousel-item">
-      <img class="img-fluid size" src="assets/gallery/gallery_10.webp" alt="tenth slide">
+      <img class="img-fluid" src="assets/gallery/gallery_10.webp" alt="tenth slide">
     </div>
     <div class="carousel-item">
-      <img class="img-fluid size" src="assets/gallery/gallery_11.webp" alt="eleven slide">
+      <img class="img-fluid" src="assets/gallery/gallery_11.webp" alt="eleven slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
