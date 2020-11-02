@@ -225,21 +225,21 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="assets/main.webp" class="d-block w-100" alt="...">
+      <img src="assets/main.webp" class="test" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>First slide label</h5>
         <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="assets/main.webp" class="d-block w-100" alt="...">
+      <img src="assets/main.webp" class="test" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>Second slide label</h5>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="assets/main.webp" class="d-block w-100" alt="...">
+      <img src="assets/main.webp" class="test" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>Third slide label</h5>
         <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
@@ -375,12 +375,12 @@ $(function(){
 
 <style>
     /*Media Queries*/
-	@media (min-width:320px)  {  .mars{ margin:10px; }  .size{ object-fit: cover;width: 100%;height: 472px; }  /* smartphones, iPhone, portrait 480x320 phones */ }
-	@media (min-width:481px)  {  .mars{ margin:10px; }  .size{ object-fit: cover;width: 100%;height: 472px; } /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ }
- 	@media (min-width:641px)  {  .mars{ margin:10px; }  .size{ object-fit: cover;width: 100%;height: 472px; } /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ }
-	@media (min-width:961px)  { .main{object-fit: cover;width: 100%;height: 698px;}  .size{ object-fit: cover;width: 100%;height: 624px; }  /* tablet, landscape iPad, lo-res laptops ands desktops */ }
-	@media (min-width:1025px) { .main{object-fit: cover;width: 100%;height: 698px;}  .size{ object-fit: cover;width: 100%;height: 624px; }  /* big landscape tablets, laptops, and desktops */ }
-	@media (min-width:1281px) { .main{object-fit: cover;width: 100%;height: 698px;}  .size{ object-fit: cover;width: 100%;height: 624px; }  /* hi-res laptops and desktops */ }
+	@media (min-width:320px)  {  .mars{ margin:10px; }  .size{ object-fit: cover;width: 100%;height: 472px; } .test{ object-fit: cover;width: 100%;height: 300px; } /* smartphones, iPhone, portrait 480x320 phones */ }
+	@media (min-width:481px)  {  .mars{ margin:10px; }  .size{ object-fit: cover;width: 100%;height: 472px; } .test{ object-fit: cover;width: 100%;height: 300px; } /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ }
+ 	@media (min-width:641px)  {  .mars{ margin:10px; }  .size{ object-fit: cover;width: 100%;height: 472px; } .test{ object-fit: cover;width: 100%;height: 300px; } /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ }
+	@media (min-width:961px)  { .main{object-fit: cover;width: 100%;height: 698px;}  .size{ object-fit: cover;width: 100%;height: 624px; } .test{ object-fit: cover;width: 100%;height: 300px; } /* tablet, landscape iPad, lo-res laptops ands desktops */ }
+	@media (min-width:1025px) { .main{object-fit: cover;width: 100%;height: 698px;}  .size{ object-fit: cover;width: 100%;height: 624px; }  .test{ object-fit: cover;width: 100%;height: 300px; }/* big landscape tablets, laptops, and desktops */ }
+	@media (min-width:1281px) { .main{object-fit: cover;width: 100%;height: 698px;}  .size{ object-fit: cover;width: 100%;height: 624px; }  .test{ object-fit: cover;width: 100%;height: 300px; }/* hi-res laptops and desktops */ }
 	
 </style>
 
