@@ -120,7 +120,7 @@ $con=getCon();
 		<a class="m-2" href = "mailto:<?=$emaildisplay[$j]?>?subject = Greetings from Shape in - RT NAGAR" target="_blank"><span style="color:black;" class="fa fa-envelope m-4"></span></a>
 		
 		<form onsubmit="disabledeleteButton()" action="delete_query.php" method="POST">
-			<button type="submit" name="delete" id="delete" class="btn btn-dark m-4" style="background-color:black;padding:0.5em 1em;">Delete</button>
+			<button type="submit" name="delete" id="delete" class="btn btn-dark mt-2 mb-2" style="margin-left:400px;background-color:black;padding:0.5em 1em;">Delete</button>
 		</form>
 		
   	</div>
