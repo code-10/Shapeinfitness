@@ -252,6 +252,22 @@
       <div class="carousel-caption d-none d-md-block" style="bottom:120px;">
         <h5>Second slide label</h5>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+	      
+	<!--start-->
+	
+	<span class="fa fa-star checked"></span>
+	<span class="fa fa-star checked"></span>
+	<span class="fa fa-star checked"></span>
+	<span class="fa fa-star checked"></span>
+	<span class="fa fa-star checked"></span>
+	      
+	 <style>
+		 .checked{
+			color:yellow;	 
+		 }
+	 </style>
+	<!--stars end-->
+	   
       </div>
     </div>
     <div class="carousel-item">
@@ -259,6 +275,22 @@
       <div class="carousel-caption d-none d-md-block" style="bottom:120px;">
         <h5>Third slide label</h5>
         <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+	 
+	<!--start-->
+	
+	<span class="fa fa-star checked"></span>
+	<span class="fa fa-star checked"></span>
+	<span class="fa fa-star checked"></span>
+	<span class="fa fa-star checked"></span>
+	<span class="fa fa-star checked"></span>
+	      
+	 <style>
+		 .checked{
+			color:yellow;	 
+		 }
+	 </style>
+	<!--stars end-->
+	   
       </div>
     </div>
   </div>
