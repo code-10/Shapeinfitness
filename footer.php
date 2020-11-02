@@ -22,8 +22,10 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
           to get fit and have fun at the same time. Our goal is to make our facility a place you look forward to returning to. SHAPE IN is designed to provide 
           the best Training with flexible Timings. Our mission is to introduce health and fitness into every Women's life and empower them to build 
           a well-structured and healthy lifestyle.</strong></p>
-          <p>Sunil Kumar - Fitness Counselor - SHAPE IN</p>
-        <p><a  href="tel:+91 9739796989" target="_blank"><span style="color:white;" class="fa fa-phone mr-2"></span></a> +91 97397 96989</p>
+          <p></p>
+        <p class="mb-1"><a  href="tel:+91 9739796989" target="_blank"><span style="color:white;" class="fa fa-phone mr-2"></span></a>Sunil Kumar - Fitness Counselor</p>
+        <p>SHAPE IN</p>
+        <p>+91 9739796989</p>
       </div>
       <!-- Grid column -->
 
