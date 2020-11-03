@@ -69,7 +69,7 @@
 
 
 
-<div class="p-4" style="background-color:black; id="services"">
+<div class="p-4" style="background-color:black; id="services">
 	<p style="color:white;font-size:40px;margin-bottom:0rem;" class="text-center">OUR</p>
 	<p style="color:white;font-size:48px;" class="text-center"><strong>FACILITIES</strong></p>
 	
