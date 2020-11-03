@@ -27,9 +27,7 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
         <p class="mb-1 ml-4">+91 9739796989</p>-->
         
         
-        <br><br>
         <hr style="background-color:white;">
-        <br><br>
         
         
       </div>
