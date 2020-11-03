@@ -400,9 +400,9 @@ $(function(){
 	@media (min-width:320px)  {  .mars{ margin:10px; }  .test{ object-fit: cover;width: 100%;height: 300px; } /* smartphones, iPhone, portrait 480x320 phones */ }
 	@media (min-width:481px)  {  .mars{ margin:10px; }   .test{ object-fit: cover;width: 100%;height: 300px; } /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ }
  	@media (min-width:641px)  {  .mars{ margin:10px; }  .test{ object-fit: cover;width: 100%;height: 300px; } /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ }
-	@media (min-width:961px)  { .main{object-fit: cover;width: 100%;height: 698px;}  .bot{ bottom:80px; } .size{ object-fit: cover;width: 100%;height: 624px; } .test{ object-fit: cover;width: 100%;height: 300px; } /* tablet, landscape iPad, lo-res laptops ands desktops */ }
-	@media (min-width:1025px) { .main{object-fit: cover;width: 100%;height: 698px;}  .bot{ bottom:80px; } .size{ object-fit: cover;width: 100%;height: 624px; }  .test{ object-fit: cover;width: 100%;height: 300px; }/* big landscape tablets, laptops, and desktops */ }
-	@media (min-width:1281px) { .main{object-fit: cover;width: 100%;height: 698px;}  .bot{ bottom:80px; } .size{ object-fit: cover;width: 100%;height: 624px; }  .test{ object-fit: cover;width: 100%;height: 300px; }/* hi-res laptops and desktops */ }
+	@media (min-width:961px)  { .main{object-fit: cover;width: 100%;height: 698px;}  .bot{ bottom:80px; } .size{ object-fit: cover;width: 100%;height: 640px; } .test{ object-fit: cover;width: 100%;height: 300px; } /* tablet, landscape iPad, lo-res laptops ands desktops */ }
+	@media (min-width:1025px) { .main{object-fit: cover;width: 100%;height: 698px;}  .bot{ bottom:80px; } .size{ object-fit: cover;width: 100%;height: 640px; }  .test{ object-fit: cover;width: 100%;height: 300px; }/* big landscape tablets, laptops, and desktops */ }
+	@media (min-width:1281px) { .main{object-fit: cover;width: 100%;height: 698px;}  .bot{ bottom:80px; } .size{ object-fit: cover;width: 100%;height: 640px; }  .test{ object-fit: cover;width: 100%;height: 300px; }/* hi-res laptops and desktops */ }
 	
 </style>
 
