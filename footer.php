@@ -30,6 +30,9 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
       </div>
       <!-- Grid column -->
 
+        <br><br>
+        <hr style="background-color:white;">
+        <br><br>
       
       <!-- Grid column -->
       <div class="col-md-6 mb-md-0 mb-3 p-4 mt-4">
