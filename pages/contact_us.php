@@ -45,7 +45,7 @@
 		
       $con=getCon();
 	   
-      $cur = date("Y-m-d H:i:s");	
+      $cur = date("Y-m-d");	
 	    
       $res=$con->query("insert into contact_us(name,email,message,contact) values('$name','$email','$message','$contact')");	
 	   
