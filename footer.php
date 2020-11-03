@@ -32,7 +32,7 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
 
       
       <!-- Grid column -->
-      <div class="col-md-6 mb-md-0 mb-3 p-4">
+      <div class="col-md-6 mb-md-0 mb-3 p-4 mt-4">
 
         <!-- Links -->
         <h5 class="text-uppercase">Social</h5>
@@ -40,14 +40,19 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
         <a href="https://www.facebook.com/shape_in_rt_nagar-110153597340688/" target="_blank"><span style="color:white;" class="fa fa-facebook m-4"></span></a>
         <a href="https://www.instagram.com/shape_in_rt_nagar?r=nametag" target="_blamk"><span style="color:white;" class="fa fa-instagram m-4"></span></a>
         <a href = "mailto:contactus@shapeinfitness.in?subject = Feedback for Shape in" target="_blank"><span style="color:white;" class="fa fa-envelope m-4"></span></a>
-
+        
         <br><br>
+        <hr>
+        <br><br>
+        
         <p><a  href="https://g.page/shapeinrtnagar?share" target="_blank"><span style="color:white;" class="fa fa-address-card mr-2 mb-2"></span></a>#10, 2nd Floor, CBI Road, above Amma's Pasteries, HMT Layout, RT Nagar, Bengaluru, Karnataka 560032</p>
         <p class="mb-1"><a  href="tel:+91 9900350849" target="_blank"><span style="color:white;" class="fa fa-phone mr-2"></span></a>+91 9900350849 / 080 43027229</p>
         <p class="mb-1"><a  href = "mailto:contactus@shapeinfitness.in?subject = Feedback for Shape in" target="_blank"><span style="color:white;" class="fa fa-envelope mr-2"></span></a>contactus@shapeinfitness.in</p>
       <!-- Grid column -->
 
-                 
+        <br><br>
+        <hr>
+        <br><br>        
 
     </div>
     <!-- Grid row -->
