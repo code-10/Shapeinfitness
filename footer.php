@@ -30,9 +30,6 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
       </div>
       <!-- Grid column -->
 
-      <br><br>
-        <hr style="color:white;">
-        <br><br>
       
       <!-- Grid column -->
       <div class="col-md-6 mb-md-0 mb-3 p-4 mt-4">
@@ -45,7 +42,7 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
         <a href = "mailto:contactus@shapeinfitness.in?subject = Feedback for Shape in" target="_blank"><span style="color:white;" class="fa fa-envelope m-4"></span></a>
         
         <br><br>
-        <hr style="color:white;">
+        <hr style="background-color:white;">
         <br><br>
         
         <p><a  href="https://g.page/shapeinrtnagar?share" target="_blank"><span style="color:white;" class="fa fa-address-card mr-2 mb-2"></span></a>#10, 2nd Floor, CBI Road, above Amma's Pasteries, HMT Layout, RT Nagar, Bengaluru, Karnataka 560032</p>
@@ -54,7 +51,7 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
       <!-- Grid column -->
 
         <br><br>
-        <hr style="color:white;">
+        <hr style="background-color:white;">
         <br><br>        
 
     </div>
