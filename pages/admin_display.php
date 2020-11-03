@@ -151,12 +151,12 @@ $con=getCon();
         btn.innerText = 'Refreshing....';
     }
 	
-	function disabledeleteButton() {
+	/*function disabledeleteButton() {
         var btn = document.getElementById('delete');
         btn.disabled = true;
 	btn.style.padding = "0.5em 1em";
         btn.innerText = 'Deleting....';
-    }
+    }*/
 </script>
 	
 	
