@@ -26,15 +26,15 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
         <p class="mb-1 ml-4">SHAPE IN</p>
         <p class="mb-1 ml-4">+91 9739796989</p>-->
         
-        
+        <br>
         <hr style="background-color:white;">
-        
+        <br>
         
       </div>
       <!-- Grid column -->
       
       <!-- Grid column -->
-      <div class="col-md-6 mb-md-0 mb-3 p-4 mt-4">
+      <div class="col-md-6 mb-md-0 mb-3 p-4">
 
         <!-- Links -->
         <h5 class="text-uppercase">Social</h5>
