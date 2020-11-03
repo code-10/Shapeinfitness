@@ -132,6 +132,10 @@ $con=getCon();
      <p class="card-text m-2 fonty"><strong>contact : </strong><?=$contactdisplay[$j]?></p>
     <p class="card-text m-2 fonty"><strong>Email : </strong><?=$emaildisplay[$j]?></p>
     <p class="card-text m-2 fonty"><strong>Message : </strong><?=$messagedisplay[$j]?></p>
+	  <?php
+	  	$dt = new DateTime('$timedisplay[$j]');
+		$timedisplay[$j]=$dt->format('Y-m-d');
+	  ?>
     <p class="card-text m-2 fonty"><small class="text-muted"><?=$timedisplay[$j]?></small></p>
   </div>
 </div>
