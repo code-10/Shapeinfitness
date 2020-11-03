@@ -26,9 +26,6 @@
 	      <a style="color:black;" class="nav-link" href="#"><strong>Home</strong></a>
       </li>
       <li class="nav-item">
-	      <a style="color:black;" class="nav-link" href="#services"><strong>Services</strong></a>
-      </li>
-      <li class="nav-item">
         <a style="color:black;" class="nav-link" href="#gallery"><strong>Gallery</strong></a>
       </li>
       <li class="nav-item">
