@@ -64,6 +64,24 @@
 
 
 
+
+<!--our facility-->
+
+
+
+<div class="p-4" style="background-color:black;">
+	<p style="color:white;font-size:36px;" class="text-center p-1">OUR</p>
+	<p style="color:white;font-size:36px;" class="text-center p-1"><strong>FACILITIES</strong></p>
+	
+</div>
+
+
+<!--our facility end-->
+
+
+
+
+
 <!--facilities-->
 
 <?php  
