@@ -28,9 +28,6 @@
         <a class="nav-link" href="../index.php" style="color:black;font-family: 'Roboto', sans-serif;">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#services" style="color:black;font-family: 'Roboto', sans-serif;">Services</a>
-      </li>
-      <li class="nav-item">
         <a class="nav-link" href="../index.php#gallery" style="color:black;font-family: 'Roboto', sans-serif;">Gallery</a>
       </li>
       <li class="nav-item">
