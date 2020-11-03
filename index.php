@@ -40,6 +40,9 @@
       <li class="nav-item">
         <a style="color:black;" class="nav-link" href="#location"><strong>Location</strong></a>
       </li>
+      <li class="nav-item">
+        <a style="color:black;" class="nav-link" href="#aboutus"><strong>About Us</strong></a>
+      </li>
     </ul>
   </div>
 </nav>
@@ -407,12 +410,14 @@ $(function(){
 
 
 
-
-
+<div id="aboutus">
 
 <?php include_once 'footer.php'; ?>
 
+</div>
 
+		 
+		 
 <style>
     /*Media Queries*/
 	@media (min-width:320px)  {  .mars{ margin:10px; }  .test{ object-fit: cover;width: 100%;height: 300px; } /* smartphones, iPhone, portrait 480x320 phones */ }
