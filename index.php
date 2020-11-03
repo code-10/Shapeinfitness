@@ -57,7 +57,7 @@
 </div>-->
 
 
-<img src="assets/gallery/gallery_9.webp" class="img-fluid" alt="SHAPE IN">
+<img src="assets/gallery/gallery_9.webp" class="img-fluid size" alt="SHAPE IN">
 
 
 <!--main end-->
