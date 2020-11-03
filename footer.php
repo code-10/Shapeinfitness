@@ -28,8 +28,7 @@ background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);color:white;"
         
         <br>
         <hr style="background-color:white;">
-        <br>
-        
+     
       </div>
       <!-- Grid column -->
       
