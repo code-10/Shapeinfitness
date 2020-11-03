@@ -69,9 +69,9 @@
 
 
 
-<div class="p-4" style="background-color:black;">
-	<p style="color:white;font-size:36px;" class="text-center p-1">OUR</p>
-	<p style="color:white;font-size:36px;" class="text-center p-1"><strong>FACILITIES</strong></p>
+<div class="p-4" style="background-color:black; id="services"">
+	<p style="color:white;font-size:36px;" class="text-center">OUR</p>
+	<p style="color:white;font-size:36px;" class="text-center"><strong>FACILITIES</strong></p>
 	
 </div>
 
@@ -105,7 +105,7 @@
 ?>
 
 <p id="learnmore"></p>
-<p id="services" style="color:black;font-size:40px;" class="text-center mt-5 mb-2">OUR FACILITIES</p>
+<!--<p id="services" style="color:black;font-size:40px;" class="text-center mt-5 mb-2">OUR FACILITIES</p>-->
 
 <div class="container">
 	<? $c=0; for($i=0;$i<2;$i++) { ?>
