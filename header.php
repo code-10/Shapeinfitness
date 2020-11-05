@@ -3,11 +3,11 @@
 <html lang="en">
 
 <head>
-    
+    <link rel="shortcut icon" type="image/x-icon" sizes="192x192" href="assets/favicon.ico">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="SHAPE IN - RT NAGAR" content="SHAPE IN - Women's Fitness Gym and Group Classes RT NAGAR">
-    <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
+    
     <title>SHAPE IN - Women's Fitness Gym and Group Classes RT NAGAR</title>
     
    
