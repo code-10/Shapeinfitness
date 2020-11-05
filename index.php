@@ -65,19 +65,6 @@
 
 
 
-
-
-
-<div class="p-4" style="background-color:black; id="services">
-	<h5 style="color:white;" class="text-center title">SHAPE IN - RT NAGAR</h5>
-</div>
-
-
-
-
-
-
-
 <!--our facility-->
 
 
