@@ -68,7 +68,7 @@
 
 
 <div class="p-4" style="background-color:black; id="services">
-	<p style="color:white;font-size:40px;" class="text-center">SHAPE IN RT NAGAR</p>
+	<h5 style="color:white;" class="text-center">SHAPE IN RT NAGAR</h5>
 </div>
 
 
