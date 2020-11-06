@@ -6,11 +6,32 @@
     <link rel="shortcut icon" type="image/x-icon" sizes="192x192" href="assets/favicon.ico">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="SHAPE IN - Women's Fitness Gym and Group Classes RT NAGAR">
     
-    <title>SHAPE IN - Women's Fitness Gym and Group Classes RT NAGAR</title>
     
-   
+    
+    
+    
+    <!--seo-->
+  <meta name="description" content="SHAPE IN - best Women's gym near me - Women's Fitness Gym and Group Classes RT NAGAR"/>
+  <link rel="canonical" href="https://www.shapeinfitness.in/"/>
+  <meta property="og:title" content="SHAPE IN - BEST GYM in R T NAGAR "/>
+  <meta property="og:description" content="SHAPE IN PROVIDES WEIGHT LOSS, YOGA, ZUMBA, PILATES, TONING. "/>
+  <meta property="og:image" content="assets/logo.webp"/>
+  <meta property="og:image:width" content="998"/>
+  <meta property="og:image:height" content="223"/>
+  <meta property="og:url" content="https://www.shapeinfitness.in/"/>
+  <meta property="og:site_name" content="Shape in Fitness "/>
+  <meta property="og:type" content="website"/>
+  <meta name="google-site-verification" content=""/>
+  <meta name="keywords" content="BEST GYM NEAR ME, SHAPE IN, WOMEN'S GYM, R T NAGAR, FITNESS "/>
+    <!--seo end-->
+    
+    
+    <title>Best Gyms Near Me - RT Nagar, SHAPE IN - Women's Fitness Gym and Group Classes, Zumba, Yoga</title>
+    
+    
+    <!--<meta name="description" content="SHAPE IN - Women's Fitness Gym and Group Classes RT NAGAR">-->
+    <!--<title>SHAPE IN - Women's Fitness Gym and Group Classes RT NAGAR</title>-->
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
