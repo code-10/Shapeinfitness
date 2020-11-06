@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-    <link rel="shortcut icon" type="image/x-icon" sizes="192x192" href="assets/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" sizes="192x192" href="assets/logo.webp">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
