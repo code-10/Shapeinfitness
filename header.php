@@ -14,7 +14,7 @@
     <!--seo-->
   <meta name="description" content="SHAPE IN - best Women's gym near me - Women's Fitness Gym and Group Classes RT NAGAR"/>
   <link rel="canonical" href="https://www.shapeinfitness.in/"/>
-  <meta property="og:title" content="SHAPE IN - BEST GYM in R T NAGAR "/>
+  <!--<meta property="og:title" content="SHAPE IN - BEST GYM in R T NAGAR "/>-->
   <meta property="og:description" content="SHAPE IN PROVIDES WEIGHT LOSS, YOGA, ZUMBA, PILATES, TONING. "/>
   <meta property="og:image" content="assets/logo.webp"/>
   <meta property="og:image:width" content="998"/>
