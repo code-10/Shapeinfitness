@@ -22,7 +22,7 @@
   <meta property="og:url" content="https://www.shapeinfitness.in/"/>
   <meta property="og:site_name" content="Shape in Fitness "/>
   <meta property="og:type" content="website"/>
-  <!--<meta name="google-site-verification" content=""/>-->
+  <meta name="google-site-verification" content="google-site-verification=UUILp5yR_1sEMInNR0DpeEEj6_s1dCxmInMvWp82Ui8"/>
   <meta name="keywords" content="BEST GYM NEAR ME, SHAPE IN, WOMEN'S GYM, R T NAGAR, FITNESS "/>
     <!--seo end-->
     
