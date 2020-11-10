@@ -27,7 +27,7 @@
     <!--seo end-->
     
     
-    <title>Women's Fitness Gym and Group Classes, Zumba, Yoga - Best Gyms Near Me - RT Nagar, SHAPE IN</title>
+    <title>Women's Fitness Gym and Group Classes, Zumba, Yoga - Best Gyms Near Me, RT Nagar, SHAPE IN</title>
     
     
     <!--<meta name="description" content="SHAPE IN - Women's Fitness Gym and Group Classes RT NAGAR">-->
