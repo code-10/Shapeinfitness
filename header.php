@@ -12,7 +12,7 @@
     
     
     <!--seo meta description for description-->
-  <meta name="description" content="SHAPE IN - Best Women's Gym Near Me - Women's Fitness Gym and Group Classes RT NAGAR"/>
+  <meta name="description" content="Best Women's Gym Near Me - SHAPE IN - Women's Fitness Gym and Group Classes RT NAGAR"/>
   <link rel="canonical" href="https://www.shapeinfitness.in/"/>
   <!--<meta property="og:title" content="SHAPE IN - BEST GYM in R T NAGAR"/>-->
   <meta property="og:description" content="SHAPE IN PROVIDES WEIGHT LOSS, YOGA, ZUMBA, PILATES, TONING."/>
